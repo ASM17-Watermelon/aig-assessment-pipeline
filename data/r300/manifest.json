@@ -1,0 +1,226 @@
+{
+  "study": "aig-assessment-pipeline",
+  "script_version": "600.2",
+  "source": "synthetic",
+  "git_sha": null,
+  "as_of": "2026-10-01",
+  "run": "r300",
+  "rule": "실응답 파일과 합치지 않는다. user_hash = syn_ 접두, cohort_flag = synthetic, source 열 = synthetic",
+  "personas": {
+    "dataset": "nvidia/Nemotron-Personas-Korea",
+    "revision": "ada0f5b53a38bb5a30cce09358adde883c1ab63a",
+    "source": "parquet",
+    "license": "cc-by-4.0",
+    "total_rows": 1000000,
+    "seed": 600,
+    "n": 300,
+    "age_quotas": [
+      {
+        "from": 19,
+        "to": 45,
+        "share": 0.7,
+        "count": 210
+      },
+      {
+        "from": 46,
+        "to": 63,
+        "share": 0.27,
+        "count": 81
+      },
+      {
+        "from": 64,
+        "to": 72,
+        "share": 0.03,
+        "count": 9
+      }
+    ],
+    "offsets_tried": 2000,
+    "skipped_by_age_quota": 212,
+    "file_sha256": "6d40453a2d29367f060f3377006108b105e1c3edac38b7c042823c894e40ac56"
+  },
+  "items": {
+    "lot": "598",
+    "parsed": 100,
+    "curated": true,
+    "kept": 100,
+    "excluded": 0,
+    "excluded_by_review": 0,
+    "exclude_file_sha256": null,
+    "review_csv": "(비공개) 사람 검수 판정 CSV",
+    "md_sha256": {
+      "(비공개) 검수 끝난 문항 md": "e154507750af1cb0460491328d81c4c441f617b204032e8bfeb1dfae23ea272f"
+    },
+    "items_sha256": "cc1041851e8bad06005f849388364d53fd20b7fa6583309ad3deddde332c0c65"
+  },
+  "prep": {
+    "seed": 600,
+    "models": [
+      "sonnet"
+    ],
+    "profile_prompt": "600-profile-v2",
+    "level_rule": {
+      "source": "과기정통부 2025 인터넷이용실태조사 연령대별 생성형 AI 경험률(50대 보간)",
+      "rates": [
+        {
+          "from": 12,
+          "to": 19,
+          "rate": 0.597
+        },
+        {
+          "from": 20,
+          "to": 29,
+          "rate": 0.753
+        },
+        {
+          "from": 30,
+          "to": 39,
+          "rate": 0.711
+        },
+        {
+          "from": 40,
+          "to": 49,
+          "rate": 0.584
+        },
+        {
+          "from": 50,
+          "to": 59,
+          "rate": 0.3635,
+          "estimated": true
+        },
+        {
+          "from": 60,
+          "to": 69,
+          "rate": 0.143
+        },
+        {
+          "from": 70,
+          "to": 150,
+          "rate": 0.049
+        }
+      ],
+      "user_split": {
+        "tried": 0.25,
+        "sometimes": 0.25,
+        "often": 0.25,
+        "daily": 0.25
+      }
+    }
+  },
+  "solve": {
+    "anchors": 1,
+    "rotate": 3,
+    "seed": 600,
+    "prompt": "600-solve-v4",
+    "items_sha256": "cc1041851e8bad06005f849388364d53fd20b7fa6583309ad3deddde332c0c65",
+    "anchors_n": 31
+  },
+  "counts": {
+    "input": {
+      "responses": 29400,
+      "respondents": 300
+    },
+    "dropped": {
+      "no_lineage": 0,
+      "F1_attempt": 0,
+      "F2_served_as": 0,
+      "F3_incomplete": 0,
+      "F4_fast": 0,
+      "F5_straight_rows": 0,
+      "F5_straight_sessions": 0,
+      "F6_cohort": {
+        "internal": 0,
+        "pilot_friend": 0,
+        "pre_campaign": 0
+      },
+      "F6_cohort_rows": 0,
+      "F7_recalled": 0,
+      "F9_excluded_rows": 0,
+      "F9_excluded_sessions": 0,
+      "F11_format": 0,
+      "ungraded": 0
+    },
+    "output": {
+      "responses": 29400,
+      "respondents": 300,
+      "items": 100,
+      "positions": 98,
+      "items_excluded": {
+        "recalled": 0,
+        "extreme_p": 0,
+        "no_response": 0
+      },
+      "per_dimension": [
+        {
+          "dimension": 1,
+          "items": 17,
+          "positions": 17
+        },
+        {
+          "dimension": 2,
+          "items": 23,
+          "positions": 23
+        },
+        {
+          "dimension": 3,
+          "items": 19,
+          "positions": 19
+        },
+        {
+          "dimension": 4,
+          "items": 25,
+          "positions": 23
+        },
+        {
+          "dimension": 5,
+          "items": 16,
+          "positions": 16
+        }
+      ],
+      "completed_lessons_histogram": {
+        "1": 300
+      }
+    },
+    "cells_merged": {}
+  },
+  "warnings": [],
+  "files": {
+    "items.csv": {
+      "bytes": 18442,
+      "sha256": "f81c2ee28bbf689a51a512140fa9a61c42ba74cdb4fe75afceabe502b5db0c11"
+    },
+    "positions.csv": {
+      "bytes": 5703,
+      "sha256": "90bbfc4973645f915fc95d85fca434325f1e63c232f0e822ea04c83f18f2c90e"
+    },
+    "report.md": {
+      "bytes": 3926,
+      "sha256": "c5f57c6cc82d2ef1f3eefc1cf26edd2df7dcc2be56ca52d27c8cec088327b6fd"
+    },
+    "respondents.csv": {
+      "bytes": 57319,
+      "sha256": "ba19edd6913307848cb505fbf4814317d989d5760dca3cd139916f784c720928"
+    },
+    "responses_long.csv": {
+      "bytes": 2408218,
+      "sha256": "83ca5b6101c1cf3101ec53d85584eac7c9507e5201ad0de6a2b54052da81f113"
+    },
+    "responses_wide.csv": {
+      "bytes": 66310,
+      "sha256": "6b6e1da06da8f915ed3731185142d8f2b934acf3510f729e15dc2d602dc174c9"
+    },
+    "responses_wide_family.csv": {
+      "bytes": 63990,
+      "sha256": "fc31697153c8a1d21636004219c54a493fda032a6b245c5c246553a0ccf8c5e8"
+    },
+    "synthetic_detail.csv": {
+      "bytes": 2928126,
+      "sha256": "51dd38edf992555a2a1e61c39cf601ba307108cb423e14344516ab2c1b132cb8"
+    }
+  },
+  "attribution": "Personas: NVIDIA Nemotron-Personas-Korea (CC BY 4.0) — https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea",
+  "publication": {
+    "note": "공개판에서 내부 경로·작업 식별자만 지웠다(git_sha → null, 문항 md·판정 CSV 경로 → 비공개 표기, report.md 머리말). CSV 파일은 원본 바이트 그대로이며 files 의 sha256 이 원본 산출과 같다.",
+    "report_md_original_sha256": "5d5459b8ae638400e76eb70337b98af711ae88e54e0cf1ab1f6b2f2efe63e298",
+    "items_private": "문항 본문(줄기·보기·정답 문장)은 실제 측정 문항 노출을 막기 위해 공개하지 않는다. items_sha256·md_sha256 은 비공개 원본의 해시다."
+  }
+}

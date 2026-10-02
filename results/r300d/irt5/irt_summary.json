@@ -1,0 +1,283 @@
+{
+  "snapshot": "data/r300d",
+  "groups": "1,2,3,4,5",
+  "model": "2PL (역량별 1차원, MML-EM)",
+  "criteria": {
+    "a_low": 0.65,
+    "a_very_low": 0.35,
+    "b_extreme": 3,
+    "sx2_alpha": 0.05,
+    "q3_excess": 0.2,
+    "info_precise": 4
+  },
+  "r_version": "R version 4.6.1 (2026-06-24)",
+  "mirt_version": "1.47",
+  "groups_result": {
+    "D1": {
+      "name": "위임 판단",
+      "dimensions": 1,
+      "n": 298,
+      "n_fit": 298,
+      "items": 17,
+      "converged": true,
+      "logLik": -3154.9494,
+      "lrt_rasch_vs_2pl": {
+        "chisq": 8.1829,
+        "df": 16,
+        "p": 0.9432,
+        "aic_rasch": 6354.0818,
+        "aic_2pl": 6377.8989
+      },
+      "m2": {
+        "M2": 126.3327,
+        "df": 119,
+        "p": 0.3054,
+        "RMSEA": 0.0144,
+        "SRMSR": 0.0501,
+        "TLI": 0.9855,
+        "CFI": 0.9873
+      },
+      "marginal_rxx": 0.6961,
+      "empirical_rxx": 0.6996,
+      "a": {
+        "Min.": 0.5662,
+        "1st Qu.": 0.7755,
+        "Median": 0.8239,
+        "Mean": 0.8282,
+        "3rd Qu.": 0.8855,
+        "Max.": 1.0661
+      },
+      "b": {
+        "Min.": -1.5357,
+        "1st Qu.": -1.138,
+        "Median": -0.6455,
+        "Mean": -0.7689,
+        "3rd Qu.": -0.3225,
+        "Max.": -0.1511
+      },
+      "spearman_b_vs_p": -0.9755,
+      "flagged": 2,
+      "sx2_misfit": 0,
+      "q3_mean": -0.0455,
+      "q3_flag_pairs": 0,
+      "sibling_pairs": 21,
+      "sibling_q3_mean": -0.0028,
+      "info_peak_theta": -0.6,
+      "info_peak": 2.8977,
+      "precise_range": null
+    },
+    "D2": {
+      "name": "지시·소통",
+      "dimensions": 2,
+      "n": 298,
+      "n_fit": 298,
+      "items": 23,
+      "converged": true,
+      "logLik": -4175.2156,
+      "lrt_rasch_vs_2pl": {
+        "chisq": 28.3656,
+        "df": 22,
+        "p": 0.1639,
+        "aic_rasch": 8426.7968,
+        "aic_2pl": 8442.4313
+      },
+      "m2": {
+        "M2": 276.6838,
+        "df": 230,
+        "p": 0.019,
+        "RMSEA": 0.0261,
+        "SRMSR": 0.0511,
+        "TLI": 0.9811,
+        "CFI": 0.9828
+      },
+      "marginal_rxx": 0.8247,
+      "empirical_rxx": 0.8287,
+      "a": {
+        "Min.": 0.7062,
+        "1st Qu.": 0.9358,
+        "Median": 1.0926,
+        "Mean": 1.0746,
+        "3rd Qu.": 1.2041,
+        "Max.": 1.4605
+      },
+      "b": {
+        "Min.": -0.8525,
+        "1st Qu.": -0.6634,
+        "Median": -0.4545,
+        "Mean": -0.4687,
+        "3rd Qu.": -0.3188,
+        "Max.": -0.1489
+      },
+      "spearman_b_vs_p": -0.946,
+      "flagged": 0,
+      "sx2_misfit": 0,
+      "q3_mean": -0.0394,
+      "q3_flag_pairs": 0,
+      "sibling_pairs": 27,
+      "sibling_q3_mean": -0.0322,
+      "info_peak_theta": -0.4,
+      "info_peak": 6.7797,
+      "precise_range": [-1.7, 0.9]
+    },
+    "D3": {
+      "name": "산출물 비판적 검증",
+      "dimensions": 3,
+      "n": 298,
+      "n_fit": 298,
+      "items": 19,
+      "converged": true,
+      "logLik": -3461.161,
+      "lrt_rasch_vs_2pl": {
+        "chisq": 16.8604,
+        "df": 18,
+        "p": 0.5327,
+        "aic_rasch": 6979.1824,
+        "aic_2pl": 6998.3221
+      },
+      "m2": {
+        "M2": 149.8236,
+        "df": 152,
+        "p": 0.5347,
+        "RMSEA": 0,
+        "SRMSR": 0.0452,
+        "TLI": 1.0013,
+        "CFI": 1
+      },
+      "marginal_rxx": 0.8065,
+      "empirical_rxx": 0.8109,
+      "a": {
+        "Min.": 0.7934,
+        "1st Qu.": 0.9907,
+        "Median": 1.1348,
+        "Mean": 1.114,
+        "3rd Qu.": 1.2679,
+        "Max.": 1.3953
+      },
+      "b": {
+        "Min.": -0.6805,
+        "1st Qu.": -0.5422,
+        "Median": -0.3933,
+        "Mean": -0.3002,
+        "3rd Qu.": -0.184,
+        "Max.": 0.4522
+      },
+      "spearman_b_vs_p": -0.9398,
+      "flagged": 0,
+      "sx2_misfit": 0,
+      "q3_mean": -0.0478,
+      "q3_flag_pairs": 0,
+      "sibling_pairs": 21,
+      "sibling_q3_mean": -0.0264,
+      "info_peak_theta": -0.3,
+      "info_peak": 5.8473,
+      "precise_range": [-1.4, 0.8]
+    },
+    "D4": {
+      "name": "안전·윤리",
+      "dimensions": 4,
+      "n": 298,
+      "n_fit": 298,
+      "items": 23,
+      "converged": true,
+      "logLik": -4386.1898,
+      "lrt_rasch_vs_2pl": {
+        "chisq": 35.5131,
+        "df": 22,
+        "p": 0.0342,
+        "aic_rasch": 8855.8928,
+        "aic_2pl": 8864.3796
+      },
+      "m2": {
+        "M2": 247.7089,
+        "df": 230,
+        "p": 0.2015,
+        "RMSEA": 0.0161,
+        "SRMSR": 0.0496,
+        "TLI": 0.9885,
+        "CFI": 0.9895
+      },
+      "marginal_rxx": 0.7975,
+      "empirical_rxx": 0.8006,
+      "a": {
+        "Min.": 0.4834,
+        "1st Qu.": 0.7836,
+        "Median": 0.9216,
+        "Mean": 0.9212,
+        "3rd Qu.": 1.0884,
+        "Max.": 1.3694
+      },
+      "b": {
+        "Min.": -0.6483,
+        "1st Qu.": -0.3963,
+        "Median": -0.23,
+        "Mean": -0.243,
+        "3rd Qu.": -0.1005,
+        "Max.": 0.2352
+      },
+      "spearman_b_vs_p": -0.9822,
+      "flagged": 4,
+      "sx2_misfit": 0,
+      "q3_mean": -0.0373,
+      "q3_flag_pairs": 0,
+      "sibling_pairs": 23,
+      "sibling_q3_mean": -0.0531,
+      "info_peak_theta": -0.2,
+      "info_peak": 5.1056,
+      "precise_range": [-1.2, 0.7]
+    },
+    "D5": {
+      "name": "적정 의존·주체성",
+      "dimensions": 5,
+      "n": 298,
+      "n_fit": 298,
+      "items": 16,
+      "converged": true,
+      "logLik": -3046.5921,
+      "lrt_rasch_vs_2pl": {
+        "chisq": 62.9672,
+        "df": 15,
+        "p": 7.737e-08,
+        "aic_rasch": 6190.1514,
+        "aic_2pl": 6157.1842
+      },
+      "m2": {
+        "M2": 89.0403,
+        "df": 104,
+        "p": 0.8519,
+        "RMSEA": 0,
+        "SRMSR": 0.0426,
+        "TLI": 1.017,
+        "CFI": 1
+      },
+      "marginal_rxx": 0.7611,
+      "empirical_rxx": 0.7666,
+      "a": {
+        "Min.": 0.294,
+        "1st Qu.": 0.8704,
+        "Median": 1.0432,
+        "Mean": 1.0001,
+        "3rd Qu.": 1.1648,
+        "Max.": 1.6766
+      },
+      "b": {
+        "Min.": -1.3827,
+        "1st Qu.": -0.2409,
+        "Median": -0.0937,
+        "Mean": -0.2359,
+        "3rd Qu.": -0.0083,
+        "Max.": 0.0857
+      },
+      "spearman_b_vs_p": -0.9912,
+      "flagged": 3,
+      "sx2_misfit": 0,
+      "q3_mean": -0.0516,
+      "q3_flag_pairs": 0,
+      "sibling_pairs": 18,
+      "sibling_q3_mean": -0.0501,
+      "info_peak_theta": -0.1,
+      "info_peak": 4.473,
+      "precise_range": [-0.6, 0.4]
+    }
+  },
+  "rho_b_vs_p_all": -0.9715
+}

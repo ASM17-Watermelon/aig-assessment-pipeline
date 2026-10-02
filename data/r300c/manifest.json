@@ -1,0 +1,274 @@
+{
+  "study": "aig-assessment-pipeline",
+  "script_version": "600.2",
+  "source": "synthetic",
+  "git_sha": null,
+  "as_of": "2026-10-01",
+  "run": "r300c",
+  "rule": "실응답 파일과 합치지 않는다. user_hash = syn_ 접두, cohort_flag = synthetic, source 열 = synthetic",
+  "personas": {
+    "dataset": "nvidia/Nemotron-Personas-Korea",
+    "revision": "ada0f5b53a38bb5a30cce09358adde883c1ab63a",
+    "source": "parquet",
+    "license": "cc-by-4.0",
+    "total_rows": 1000000,
+    "seed": 600,
+    "n": 300,
+    "age_quotas": [
+      {
+        "from": 19,
+        "to": 45,
+        "share": 0.7,
+        "count": 210
+      },
+      {
+        "from": 46,
+        "to": 63,
+        "share": 0.27,
+        "count": 81
+      },
+      {
+        "from": 64,
+        "to": 72,
+        "share": 0.03,
+        "count": 9
+      }
+    ],
+    "offsets_tried": 2000,
+    "skipped_by_age_quota": 212,
+    "file_sha256": "6d40453a2d29367f060f3377006108b105e1c3edac38b7c042823c894e40ac56"
+  },
+  "items": {
+    "lot": "598",
+    "parsed": 100,
+    "curated": true,
+    "kept": 100,
+    "excluded": 0,
+    "excluded_by_review": 0,
+    "exclude_file_sha256": null,
+    "review_csv": "(비공개) 사람 검수 판정 CSV",
+    "md_sha256": {
+      "(비공개) 검수 끝난 문항 md": "e154507750af1cb0460491328d81c4c441f617b204032e8bfeb1dfae23ea272f"
+    },
+    "items_sha256": "cc1041851e8bad06005f849388364d53fd20b7fa6583309ad3deddde332c0c65"
+  },
+  "prep": {
+    "seed": 600,
+    "models": [
+      "sonnet"
+    ],
+    "mode": "dims",
+    "profile_prompt": "600-profile-dims-v2",
+    "general": false,
+    "level_rule": {
+      "source": "과기정통부 2025 인터넷이용실태조사 연령대별 생성형 AI 경험률(50대 보간)",
+      "rates": [
+        {
+          "from": 12,
+          "to": 19,
+          "rate": 0.597
+        },
+        {
+          "from": 20,
+          "to": 29,
+          "rate": 0.753
+        },
+        {
+          "from": 30,
+          "to": 39,
+          "rate": 0.711
+        },
+        {
+          "from": 40,
+          "to": 49,
+          "rate": 0.584
+        },
+        {
+          "from": 50,
+          "to": 59,
+          "rate": 0.3635,
+          "estimated": true
+        },
+        {
+          "from": 60,
+          "to": 69,
+          "rate": 0.143
+        },
+        {
+          "from": 70,
+          "to": 150,
+          "rate": 0.049
+        }
+      ],
+      "user_split": {
+        "tried": 0.25,
+        "sometimes": 0.25,
+        "often": 0.25,
+        "daily": 0.25
+      }
+    },
+    "dim_rule": {
+      "formula": "차원 수준 = 전반 수준(0~4) + 영역 관련성 평정(-1/0/+1, 인물 정보 인용) + 개인 편차(시드, 각 1/3) → 0~4 로 자름",
+      "deviation": [
+        -2,
+        0,
+        2
+      ],
+      "rate_prompt": "600-rate-v1",
+      "areas": [
+        {
+          "dim": 1,
+          "name": "맡길 일 고르기",
+          "what": "어떤 일을 AI에 맡기고 어떤 일은 사람이 직접 판단·결정해야 하는지 가르는 것",
+          "plus": "결정·책임이 따르는 일(관리·기획·사업 운영·법무 등)을 한다",
+          "minus": "정해진 반복 작업만 하고 일을 나누거나 맡겨 본 적이 없다"
+        },
+        {
+          "dim": 2,
+          "name": "지시하기",
+          "what": "원하는 결과를 얻도록 목적·조건·맥락·형식을 넣어 요청하고 대화를 이어 가는 것",
+          "plus": "글쓰기·설명·교육·마케팅·상담처럼 남에게 일을 설명하거나 요청하는 일이 많다",
+          "minus": "말이나 글로 무언가를 지시·설명할 일이 거의 없다"
+        },
+        {
+          "dim": 3,
+          "name": "결과 확인",
+          "what": "받은 결과의 사실·숫자·출처를 원자료와 대조해 확인하는 것",
+          "plus": "숫자·문서를 대조하고 점검하는 일(경리·품질 관리·조사·검수 등)이나 꼼꼼한 확인 습관이 있다",
+          "minus": "확인 없이 넘기거나 대충 처리하는 성향이 보인다"
+        },
+        {
+          "dim": 4,
+          "name": "안전·윤리",
+          "what": "개인정보·회사 자료·저작권·편향·보안 위험을 알고 조심하는 것",
+          "plus": "개인정보·고객 정보·규정을 다루는 일(상담·인사·의료·금융·정보 시스템 등)을 한다",
+          "minus": "개인정보나 규정을 다룰 일이 거의 없다"
+        },
+        {
+          "dim": 5,
+          "name": "적당히 믿기",
+          "what": "AI를 지나치게 믿지도 무조건 불신하지도 않고 상황에 맞게 의존 정도를 조절하는 것",
+          "plus": "신중하고 스스로 확인해 보는 성향이 드러난다",
+          "minus": "즉흥적이거나 남의 말·유행을 쉽게 따르는 성향이 드러난다"
+        }
+      ]
+    }
+  },
+  "solve": {
+    "anchors": 1,
+    "rotate": 3,
+    "seed": 600,
+    "prompt": "600-solve-v6",
+    "items_sha256": "cc1041851e8bad06005f849388364d53fd20b7fa6583309ad3deddde332c0c65",
+    "anchors_n": 31
+  },
+  "counts": {
+    "input": {
+      "responses": 29400,
+      "respondents": 300
+    },
+    "dropped": {
+      "no_lineage": 0,
+      "F1_attempt": 0,
+      "F2_served_as": 0,
+      "F3_incomplete": 0,
+      "F4_fast": 0,
+      "F5_straight_rows": 98,
+      "F5_straight_sessions": 1,
+      "F6_cohort": {
+        "internal": 0,
+        "pilot_friend": 0,
+        "pre_campaign": 0
+      },
+      "F6_cohort_rows": 0,
+      "F7_recalled": 0,
+      "F9_excluded_rows": 0,
+      "F9_excluded_sessions": 0,
+      "F11_format": 0,
+      "ungraded": 0
+    },
+    "output": {
+      "responses": 29302,
+      "respondents": 299,
+      "items": 100,
+      "positions": 98,
+      "items_excluded": {
+        "recalled": 0,
+        "extreme_p": 0,
+        "no_response": 0
+      },
+      "per_dimension": [
+        {
+          "dimension": 1,
+          "items": 17,
+          "positions": 17
+        },
+        {
+          "dimension": 2,
+          "items": 23,
+          "positions": 23
+        },
+        {
+          "dimension": 3,
+          "items": 19,
+          "positions": 19
+        },
+        {
+          "dimension": 4,
+          "items": 25,
+          "positions": 23
+        },
+        {
+          "dimension": 5,
+          "items": 16,
+          "positions": 16
+        }
+      ],
+      "completed_lessons_histogram": {
+        "1": 299
+      }
+    },
+    "cells_merged": {}
+  },
+  "warnings": [],
+  "files": {
+    "items.csv": {
+      "bytes": 18442,
+      "sha256": "5c93cdeb6e0eaa38658d359f772f14e7ee6d3ac7489da72379474ce400ede931"
+    },
+    "positions.csv": {
+      "bytes": 5703,
+      "sha256": "7a50678599d9de1896b0f83ef4fc675ff332d950a01e76e7a30ee562a7ba93b0"
+    },
+    "report.md": {
+      "bytes": 3936,
+      "sha256": "60d24155d79ef0e37c08ff8a2d235c4012d1854d5f33e403ed4b3987fe49e1c6"
+    },
+    "respondents.csv": {
+      "bytes": 57164,
+      "sha256": "bde1834e15897ef45dab469ace3621e7af76b2685db2d2c2e7d79097527ca852"
+    },
+    "responses_long.csv": {
+      "bytes": 2400191,
+      "sha256": "83c299ea36b25b0dbed3b0dd331c34bf9397d0aef1a252e6893d4e49dc559837"
+    },
+    "responses_wide.csv": {
+      "bytes": 66094,
+      "sha256": "de48bc6d5fb2dcf9b7b677df979dc1d2b22dcd9cc997b42d22a8859401e40c41"
+    },
+    "responses_wide_family.csv": {
+      "bytes": 63780,
+      "sha256": "fce404fa754db08f5b02cb679e550fd767ff31ebcc20886286f907f2fd7748fe"
+    },
+    "synthetic_detail.csv": {
+      "bytes": 2918366,
+      "sha256": "7d86ade8c1babf3872535b2b35e016d11e3c9fe22212cd1677b0538a956a3b02"
+    }
+  },
+  "attribution": "Personas: NVIDIA Nemotron-Personas-Korea (CC BY 4.0) — https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea",
+  "publication": {
+    "note": "공개판에서 내부 경로·작업 식별자만 지웠다(git_sha → null, 문항 md·판정 CSV 경로 → 비공개 표기, report.md 머리말). CSV 파일은 원본 바이트 그대로이며 files 의 sha256 이 원본 산출과 같다.",
+    "report_md_original_sha256": "b04efaf5528a7a7ca921c5f78e27cba1953aa68403fabef964249845fb82314f",
+    "items_private": "문항 본문(줄기·보기·정답 문장)은 실제 측정 문항 노출을 막기 위해 공개하지 않는다. items_sha256·md_sha256 은 비공개 원본의 해시다."
+  }
+}

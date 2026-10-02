@@ -1,0 +1,278 @@
+{
+  "tolerance": 0.001,
+  "cfa": {
+    "r300/cfa_five.json": {
+      "n_used": 300,
+      "items_used": 98,
+      "cfi": 0.9081,
+      "tli": 0.9037,
+      "rmsea": 0.0066,
+      "srmr": 0.0879,
+      "loading_median": 0.237,
+      "loadings_below_40": 88,
+      "corr_min": 0.8384,
+      "corr_max": 1.2509,
+      "corr_pairs": 10,
+      "corr_below_85": 1,
+      "status": "fail",
+      "comparison": {
+        "four": {
+          "chisq_diff": 1.9723,
+          "df_diff": 4,
+          "rejected": false
+        },
+        "one": {
+          "chisq_diff": 8.0448,
+          "df_diff": 10,
+          "rejected": false
+        }
+      }
+    },
+    "r300b/cfa_five.json": {
+      "n_used": 297,
+      "items_used": 98,
+      "cfi": 0.9856,
+      "tli": 0.9849,
+      "rmsea": 0.0061,
+      "srmr": 0.0831,
+      "loading_median": 0.4356,
+      "loadings_below_40": 33,
+      "corr_min": 0.7315,
+      "corr_max": 0.9246,
+      "corr_pairs": 10,
+      "corr_below_85": 7,
+      "status": "fail",
+      "comparison": {
+        "four": {
+          "chisq_diff": 71.7602,
+          "df_diff": 4,
+          "rejected": false
+        },
+        "one": {
+          "chisq_diff": 170.7913,
+          "df_diff": 10,
+          "rejected": true
+        }
+      }
+    },
+    "r300c/cfa_five.json": {
+      "n_used": 299,
+      "items_used": 98,
+      "cfi": 0.9921,
+      "tli": 0.9917,
+      "rmsea": 0.0059,
+      "srmr": 0.078,
+      "loading_median": 0.5,
+      "loadings_below_40": 13,
+      "corr_min": 0.667,
+      "corr_max": 0.9505,
+      "corr_pairs": 10,
+      "corr_below_85": 8,
+      "status": "fail",
+      "comparison": {
+        "four": {
+          "chisq_diff": 185.2849,
+          "df_diff": 4,
+          "rejected": true
+        },
+        "one": {
+          "chisq_diff": 479.0636,
+          "df_diff": 10,
+          "rejected": true
+        }
+      }
+    },
+    "r300d/cfa_five.json": {
+      "n_used": 298,
+      "items_used": 98,
+      "cfi": 0.9894,
+      "tli": 0.9889,
+      "rmsea": 0.0068,
+      "srmr": 0.079,
+      "loading_median": 0.5156,
+      "loadings_below_40": 14,
+      "corr_min": 0.6302,
+      "corr_max": 0.956,
+      "corr_pairs": 10,
+      "corr_below_85": 9,
+      "status": "fail",
+      "comparison": {
+        "four": {
+          "chisq_diff": 216.025,
+          "df_diff": 4,
+          "rejected": true
+        },
+        "one": {
+          "chisq_diff": 599.9066,
+          "df_diff": 10,
+          "rejected": true
+        },
+        "merged": {
+          "chisq_diff": -0.4371,
+          "df_diff": 4,
+          "rejected": false
+        }
+      }
+    },
+    "r300d/cfa_g15-2-3-4.json": {
+      "n_used": 298,
+      "items_used": 98,
+      "cfi": 0.9895,
+      "tli": 0.989,
+      "rmsea": 0.0068,
+      "srmr": 0.0791,
+      "loading_median": 0.5149,
+      "loadings_below_40": 14,
+      "corr_min": 0.6302,
+      "corr_max": 0.8487,
+      "corr_pairs": 6,
+      "corr_below_85": 6,
+      "status": "pass",
+      "comparison": {
+        "one": {
+          "chisq_diff": 491.562,
+          "df_diff": 6,
+          "rejected": true
+        }
+      }
+    }
+  },
+  "irt": {
+    "r300d/irt/irt_summary.json": {
+      "D1+D5": {
+        "n": 298,
+        "items": 33,
+        "marginal_rxx": 0.8398,
+        "flagged": 5,
+        "sx2_misfit": 0,
+        "aic_winner": "2PL",
+        "lrt_chisq": 82.7463,
+        "info_peak_theta": -0.2,
+        "precise_range": [
+          -1.8,
+          1.2
+        ],
+        "b_max": 0.0745
+      },
+      "D2": {
+        "n": 298,
+        "items": 23,
+        "marginal_rxx": 0.8247,
+        "flagged": 0,
+        "sx2_misfit": 0,
+        "aic_winner": "Rasch",
+        "lrt_chisq": 28.3656,
+        "info_peak_theta": -0.4,
+        "precise_range": [
+          -1.7,
+          0.9
+        ],
+        "b_max": -0.1489
+      },
+      "D3": {
+        "n": 298,
+        "items": 19,
+        "marginal_rxx": 0.8065,
+        "flagged": 0,
+        "sx2_misfit": 0,
+        "aic_winner": "Rasch",
+        "lrt_chisq": 16.8604,
+        "info_peak_theta": -0.3,
+        "precise_range": [
+          -1.4,
+          0.8
+        ],
+        "b_max": 0.4522
+      },
+      "D4": {
+        "n": 298,
+        "items": 23,
+        "marginal_rxx": 0.7975,
+        "flagged": 4,
+        "sx2_misfit": 0,
+        "aic_winner": "Rasch",
+        "lrt_chisq": 35.5131,
+        "info_peak_theta": -0.2,
+        "precise_range": [
+          -1.2,
+          0.7
+        ],
+        "b_max": 0.2352
+      }
+    },
+    "r300d/irt5/irt_summary.json": {
+      "D1": {
+        "n": 298,
+        "items": 17,
+        "marginal_rxx": 0.6961,
+        "flagged": 2,
+        "sx2_misfit": 0,
+        "aic_winner": "Rasch",
+        "lrt_chisq": 8.1829,
+        "info_peak_theta": -0.6,
+        "precise_range": null,
+        "b_max": -0.1511
+      },
+      "D2": {
+        "n": 298,
+        "items": 23,
+        "marginal_rxx": 0.8247,
+        "flagged": 0,
+        "sx2_misfit": 0,
+        "aic_winner": "Rasch",
+        "lrt_chisq": 28.3656,
+        "info_peak_theta": -0.4,
+        "precise_range": [
+          -1.7,
+          0.9
+        ],
+        "b_max": -0.1489
+      },
+      "D3": {
+        "n": 298,
+        "items": 19,
+        "marginal_rxx": 0.8065,
+        "flagged": 0,
+        "sx2_misfit": 0,
+        "aic_winner": "Rasch",
+        "lrt_chisq": 16.8604,
+        "info_peak_theta": -0.3,
+        "precise_range": [
+          -1.4,
+          0.8
+        ],
+        "b_max": 0.4522
+      },
+      "D4": {
+        "n": 298,
+        "items": 23,
+        "marginal_rxx": 0.7975,
+        "flagged": 4,
+        "sx2_misfit": 0,
+        "aic_winner": "Rasch",
+        "lrt_chisq": 35.5131,
+        "info_peak_theta": -0.2,
+        "precise_range": [
+          -1.2,
+          0.7
+        ],
+        "b_max": 0.2352
+      },
+      "D5": {
+        "n": 298,
+        "items": 16,
+        "marginal_rxx": 0.7611,
+        "flagged": 3,
+        "sx2_misfit": 0,
+        "aic_winner": "2PL",
+        "lrt_chisq": 62.9672,
+        "info_peak_theta": -0.1,
+        "precise_range": [
+          -0.6,
+          0.4
+        ],
+        "b_max": 0.0857
+      }
+    }
+  }
+}

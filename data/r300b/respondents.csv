@@ -1,0 +1,298 @@
+user_hash,birth_year_band,gender,persona,employment_type,ai_experience,acquisition_channel,signup_date,first_completion_date,research_agreed,cohort_flag,completed_lessons,source,age,education_level,occupation,province,level_rule,sim_model,hf_uuid
+syn_r300_0001,1965-1969,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,61,중학교,무직,대구,msit2025-age,sonnet,17167f7e2b434c8db1c781ff86c51d64
+syn_r300_0002,1960-1964,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,63,중학교,무직,충청남,msit2025-age,sonnet,00f0a2c8f8a846f0b0752c77a6456889
+syn_r300_0003,1975-1979,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,49,고등학교,무직,인천,msit2025-age,sonnet,0a1ba72f628045778521a356c38cf99a
+syn_r300_0004,1985-1989,male,educator,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,38,4년제 대학교,스포츠 강사 및 트레이너,경기,msit2025-age,sonnet,01175c4be5c54d4db8be21bda6307dec
+syn_r300_0005,1965-1969,male,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,61,중학교,무직,경기,msit2025-age,sonnet,79db7e731faa4bae96d447e75d15747e
+syn_r300_0006,1955-1959,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,70,고등학교,가스 점검원,제주,msit2025-age,sonnet,b820aa83082749d88990c93ac7d01fb5
+syn_r300_0007,1950-1954,male,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,72,초등학교,무직,서울,msit2025-age,sonnet,d42f849f76c84a92b616e256bb3056bb
+syn_r300_0008,1965-1969,female,general,emp_none,often,,,2026-10-01,,synthetic,1,synthetic,60,중학교,무직,인천,msit2025-age,sonnet,a823c432719c4af8a95319d214d775b6
+syn_r300_0009,1980-1984,male,general,emp_freelance,daily,,,2026-10-01,,synthetic,1,synthetic,43,4년제 대학교,그 외 바닥재 시공원,전라남,msit2025-age,sonnet,ee83b2addd044101adf0a8bed32a432c
+syn_r300_0010,1960-1964,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,66,중학교,건물 경비원,서울,msit2025-age,sonnet,c76755614e304c979174aff40525472a
+syn_r300_0011,1990-1994,male,marketer,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,33,고등학교,마케팅 전문가,경기,msit2025-age,sonnet,499b58ae22f54d4e8371a0fc504e4b2b
+syn_r300_0012,1990-1994,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,32,4년제 대학교,무직,경기,msit2025-age,sonnet,ed2841da18bf44c1b71990411e6aedb1
+syn_r300_0013,1995-1999,male,office_worker,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,27,2~3년제 전문대학,전산 자료 입력원,서울,msit2025-age,sonnet,9447be416c8c4fbdaf90bc3fe83abafe
+syn_r300_0014,1965-1969,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,61,중학교,무직,전북,msit2025-age,sonnet,56cd97bbcc7542fd88c4fa1abd588313
+syn_r300_0015,1990-1994,female,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,34,4년제 대학교,그 외 인사 및 노사 관련 전문가,경상남,msit2025-age,sonnet,781521fb2957420ca962e1999beb8364
+syn_r300_0016,1975-1979,female,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,49,4년제 대학교,일반 비서,충청북,msit2025-age,sonnet,0acf3ec706984026b0d55b2525b54fcc
+syn_r300_0017,1990-1994,male,office_worker,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,34,4년제 대학교,교육 및 훈련 사무원,경기,msit2025-age,sonnet,4a854945bf5947f19b3d7d850011ae7d
+syn_r300_0018,1965-1969,female,general,emp_freelance,tried,,,2026-10-01,,synthetic,1,synthetic,58,4년제 대학교,감시카메라 설치 및 수리원,경기,msit2025-age,sonnet,8772860918444d9da916d752841b198e
+syn_r300_0019,1975-1979,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,50,2~3년제 전문대학,무직,전라남,msit2025-age,sonnet,75657750a25a43a9b9a40a23ee354666
+syn_r300_0020,1995-1999,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,30,2~3년제 전문대학,플라스틱 압출기 조작원,대구,msit2025-age,sonnet,b096ec4ec11a4c8bbc0921fbc70e5941
+syn_r300_0021,1980-1984,male,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,42,2~3년제 전문대학,무직,전라남,msit2025-age,sonnet,2d8314ee4ec247c3b813017d0ed6ec41
+syn_r300_0022,1965-1969,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,60,초등학교,시내버스 운전원,대구,msit2025-age,sonnet,f39574ad6f3945b89a71946fe81bfdc1
+syn_r300_0023,1980-1984,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,42,고등학교,보험 사무원,세종,msit2025-age,sonnet,3dc5a166edd144e98509c11db6b94179
+syn_r300_0024,1975-1979,female,marketer,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,49,4년제 대학교,마케팅 전문가,경기,msit2025-age,sonnet,aedfd77a1b9a48d5b1398afd023d5ebc
+syn_r300_0025,1995-1999,female,owner,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,31,2~3년제 전문대학,소규모 상점 일선 관리 종사원,경상남,msit2025-age,sonnet,a10cfa70c98d463082b400c061de9b48
+syn_r300_0026,1975-1979,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,51,2~3년제 전문대학,그 외 전기·전자기기 설치 및 수리원,인천,msit2025-age,sonnet,ea03f459f8174891b4ddeb3bce2c1807
+syn_r300_0027,1990-1994,female,educator,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,33,4년제 대학교,초등학교 교사,서울,msit2025-age,sonnet,f5d96ad24e6944e4ac9771d6f635bf2b
+syn_r300_0028,1980-1984,female,educator,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,44,4년제 대학교,보육교사,경상남,msit2025-age,sonnet,dd482f78c37a431aa0a6be95518dcf65
+syn_r300_0029,1995-1999,male,office_worker,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,28,2~3년제 전문대학,인사 및 노무 사무원,인천,msit2025-age,sonnet,3ea93876b57b406299eafd5b9ea9991e
+syn_r300_0030,1960-1964,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,62,고등학교,노인 및 장애인 돌봄 서비스 종사원,부산,msit2025-age,sonnet,5fdb0af4f34b49b1ad9403b6b00b8dc9
+syn_r300_0031,1975-1979,male,general,emp_freelance,never,,,2026-10-01,,synthetic,1,synthetic,51,고등학교,가스 배관공,충청남,msit2025-age,sonnet,a6276917c0564f84aa919c99fc927aea
+syn_r300_0032,1995-1999,male,developer,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,31,4년제 대학교,웹 프로그래머,경기,msit2025-age,sonnet,99db1676cc564d7281f80e8ff4af41f1
+syn_r300_0033,1955-1959,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,71,고등학교,그 외 점토제품 생산기 조작원,전라남,msit2025-age,sonnet,a7294f322b214e37b26ebac0a45afcc7
+syn_r300_0034,1970-1974,male,owner,emp_freelance,never,,,2026-10-01,,synthetic,1,synthetic,53,4년제 대학교,바텐더,경상남,msit2025-age,sonnet,00377a35e124426b9b2be857bcec16ba
+syn_r300_0035,1985-1989,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,41,4년제 대학교,수의사,전라남,msit2025-age,sonnet,8fbb88efd86b47979f9f0350db5c25bd
+syn_r300_0036,1980-1984,male,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,46,고등학교,무직,경기,msit2025-age,sonnet,b146e70437744ca5b4b4a974b0d709a5
+syn_r300_0037,1955-1959,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,69,4년제 대학교,무직,경기,msit2025-age,sonnet,36ef390dadc44276a53170931e89ab8e
+syn_r300_0038,1965-1969,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,59,고등학교,건물 경비원,충청남,msit2025-age,sonnet,59ccda2ba2e843a98a7a368249252b10
+syn_r300_0039,1965-1969,male,owner,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,57,4년제 대학교,자동차 부품 기술 영업원,서울,msit2025-age,sonnet,31194e041ddd48a68f62ea072ea18535
+syn_r300_0040,2000-2004,female,general,emp_none,sometimes,,,2026-10-01,,synthetic,1,synthetic,22,4년제 대학교,무직,경기,msit2025-age,sonnet,412a0286ed434ba7b9031f63c2535417
+syn_r300_0041,1985-1989,female,general,emp_none,often,,,2026-10-01,,synthetic,1,synthetic,39,고등학교,무직,경기,msit2025-age,sonnet,4a4d5f3e322d4df2bd91a5f2ddff231b
+syn_r300_0042,1970-1974,female,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,54,고등학교,"전직 의류 판매원, 현재 구직중",충청남,msit2025-age,sonnet,55c61446684b4ea2bf1091f9ad494b1b
+syn_r300_0043,1975-1979,female,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,51,2~3년제 전문대학,사무 보조원,경상남,msit2025-age,sonnet,770dff39adac4df2b7153913ce3a9829
+syn_r300_0044,1980-1984,female,general,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,44,2~3년제 전문대학,운송장비 청소원,경상남,msit2025-age,sonnet,8c045c3f22ce4778858b84aa15af3fc5
+syn_r300_0045,1965-1969,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,59,중학교,주방 보조원,제주,msit2025-age,sonnet,8fc39d3f705e4ab08aa404f519759077
+syn_r300_0046,1990-1994,female,general,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,34,2~3년제 전문대학,위생용 종이제품 제조기 조작원,서울,msit2025-age,sonnet,45dedbb9fc734211937d8a1fc693863f
+syn_r300_0047,1950-1954,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,72,중학교,무직,전라남,msit2025-age,sonnet,eb084632d7344cda91dfaeb6eef24c20
+syn_r300_0048,1995-1999,male,general,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,29,4년제 대학교,양식 조리사,경상북,msit2025-age,sonnet,e63ef1d2a50740d490f01b53d911c0d8
+syn_r300_0049,1965-1969,female,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,60,4년제 대학교,경리 사무원,전라남,msit2025-age,sonnet,abcff59db9c54ed7aa1737cb0f2ba9ca
+syn_r300_0050,1970-1974,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,55,4년제 대학교,데스크 안내원,서울,msit2025-age,sonnet,b41a5441463d46ef968c69fc86fb3077
+syn_r300_0051,1965-1969,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,58,중학교,건물 경비원,충청남,msit2025-age,sonnet,750cf131252c433f8dce2f7b8b044e42
+syn_r300_0052,1970-1974,male,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,54,대학원,"전직 공학·제조 및 건설 분야 시간강사, 현재 구직중",서울,msit2025-age,sonnet,b4bb9a8560714994ade5eafead31edde
+syn_r300_0053,1970-1974,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,52,고등학교,그 외 물품 이동 장비 조작원,서울,msit2025-age,sonnet,6a7e76915060495a9c44151f2891b19d
+syn_r300_0054,1965-1969,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,60,중학교,무직,서울,msit2025-age,sonnet,606181e32ba541629e2d051d9b0ebe8f
+syn_r300_0055,1970-1974,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,55,중학교,건물 경비원,전북,msit2025-age,sonnet,2310d06e16894bcf87a4e73200365e79
+syn_r300_0056,1990-1994,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,33,2~3년제 전문대학,무직,서울,msit2025-age,sonnet,ec60c21269c0461ba92c00ed2dae9db4
+syn_r300_0057,1960-1964,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,65,중학교,주방 보조원,대구,msit2025-age,sonnet,e1246c051d7942efb16be6996e1d7be5
+syn_r300_0058,1990-1994,female,office_worker,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,33,2~3년제 전문대학,지방행정 사무원,서울,msit2025-age,sonnet,fa9ac897995f413fad2fa719f2f58899
+syn_r300_0059,1995-1999,female,general,emp_none,often,,,2026-10-01,,synthetic,1,synthetic,28,4년제 대학교,무직,충청북,msit2025-age,sonnet,49727e93fff9468f86f6023db34372b3
+syn_r300_0060,1980-1984,female,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,45,4년제 대학교,인사 컨설턴트,서울,msit2025-age,sonnet,8f8adc6724f9476595f668bbc2846e13
+syn_r300_0061,1980-1984,female,office_worker,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,42,2~3년제 전문대학,경리 사무원,경상남,msit2025-age,sonnet,c831925bb8ba4806b8dd1702d6927de8
+syn_r300_0062,1970-1974,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,52,4년제 대학교,그 외 금속·재료 공학 기술자 및 연구원,경상남,msit2025-age,sonnet,156eae1a751544de9c2c4b2bc6f189c6
+syn_r300_0063,1955-1959,male,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,67,중학교,무직,경상남,msit2025-age,sonnet,b9166b32f4514d298aec7d1f9f0dc415
+syn_r300_0064,1975-1979,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,50,4년제 대학교,무직,경기,msit2025-age,sonnet,2f1ca1061b0a474e87a230912e3e94b0
+syn_r300_0065,1985-1989,female,general,emp_none,often,,,2026-10-01,,synthetic,1,synthetic,40,고등학교,무직,대구,msit2025-age,sonnet,4c0811abb96047c3bc11555862a4050c
+syn_r300_0066,1990-1994,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,35,2~3년제 전문대학,회계 사무원,대구,msit2025-age,sonnet,3a46632a2caa4275b73088e9a7328cbf
+syn_r300_0067,1960-1964,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,64,4년제 대학교,무직,서울,msit2025-age,sonnet,7d79e972664a495986764b46aa6f8a4c
+syn_r300_0068,1965-1969,female,general,emp_none,sometimes,,,2026-10-01,,synthetic,1,synthetic,59,고등학교,무직,경상남,msit2025-age,sonnet,90cd34ceea8e42678c28f8e1078452f3
+syn_r300_0069,1965-1969,male,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,60,중학교,무직,부산,msit2025-age,sonnet,00395d1d706249d8b58404c5a5fac379
+syn_r300_0070,1990-1994,male,general,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,33,2~3년제 전문대학,철도운송 관련 종사원,경기,msit2025-age,sonnet,25164070013a4c8b9ccdabd76179d1fb
+syn_r300_0071,1990-1994,female,owner,emp_freelance,tried,,,2026-10-01,,synthetic,1,synthetic,32,4년제 대학교,온라인 쇼핑 판매원,광주,msit2025-age,sonnet,8c9417a9201a4044837900fe4474c4b9
+syn_r300_0072,2005-2009,male,owner,emp_freelance,daily,,,2026-10-01,,synthetic,1,synthetic,20,2~3년제 전문대학,온라인 쇼핑 판매원,경기,msit2025-age,sonnet,382fcde2576549a783b836bdb35f00d9
+syn_r300_0073,1975-1979,male,office_worker,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,51,고등학교,영업 관리 사무원,경상남,msit2025-age,sonnet,3ea1013c87104edf9d1cc3490bc494ff
+syn_r300_0074,1965-1969,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,61,4년제 대학교,영업 관리 사무원,광주,msit2025-age,sonnet,cdbc0e431f8844f3a000e4326bf1ea96
+syn_r300_0075,1970-1974,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,54,고등학교,무직,서울,msit2025-age,sonnet,24a2261fe8c643aa928a35eb58d267cd
+syn_r300_0076,2000-2004,male,office_worker,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,24,2~3년제 전문대학,사무 보조원,경기,msit2025-age,sonnet,7aa0f9e679f14f26b15bcb0144477dbe
+syn_r300_0077,1965-1969,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,59,4년제 대학교,음식 서비스 종사원,경기,msit2025-age,sonnet,70942c189adb4b7fadb5da5ba5df081c
+syn_r300_0078,2000-2004,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,22,고등학교,무직,서울,msit2025-age,sonnet,c9432d9ab46c44cbb7aba1dfb3ed8e88
+syn_r300_0079,1970-1974,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,56,고등학교,그 외 돌봄 및 보건 서비스 종사원,경기,msit2025-age,sonnet,5c2fc6b646c84081aa0b0b3c14331017
+syn_r300_0080,1990-1994,female,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,35,4년제 대학교,사무 보조원,경상북,msit2025-age,sonnet,1bd8dd5a1b67464ab4966b88f351d47b
+syn_r300_0081,1975-1979,female,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,51,고등학교,무직,서울,msit2025-age,sonnet,cef590e168b34efbb2fcbf1ea17a8ff8
+syn_r300_0082,1985-1989,female,owner,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,37,2~3년제 전문대학,음료 서비스 종사원,대구,msit2025-age,sonnet,dc29b488bc0e4c99a701cae98dd38636
+syn_r300_0083,1980-1984,female,marketer,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,45,4년제 대학교,광고 전문가,부산,msit2025-age,sonnet,53c89c06498d42e497d122f30ab7644d
+syn_r300_0084,1995-1999,female,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,28,4년제 대학교,무직,인천,msit2025-age,sonnet,2ca0b5b97fbc4722945d5808a658d755
+syn_r300_0085,1965-1969,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,59,중학교,카펫 및 가발 제조원,인천,msit2025-age,sonnet,01ae844438674b40a02e6cf7c4470a05
+syn_r300_0086,1970-1974,female,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,53,고등학교,조세행정 사무원,전북,msit2025-age,sonnet,90cd3fab9197463bb33adea06ad2a29a
+syn_r300_0087,1980-1984,male,owner,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,45,4년제 대학교,미용사,대구,msit2025-age,sonnet,5f7b509882364973b163b279b090cb60
+syn_r300_0088,1980-1984,male,general,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,43,4년제 대학교,화학 연구원,세종,msit2025-age,sonnet,a5a92242c81a452f97723db6447280d0
+syn_r300_0089,1970-1974,female,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,55,고등학교,무직,서울,msit2025-age,sonnet,8f653ce879ec43eba1ad43af91f6b0c5
+syn_r300_0090,1965-1969,male,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,60,대학원,무직,서울,msit2025-age,sonnet,3346cbf0aaa4446a8a7919737c891451
+syn_r300_0092,1985-1989,female,owner,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,38,2~3년제 전문대학,식품 영업원,경기,msit2025-age,sonnet,7f1de909bba84e29a4943050477cbbec
+syn_r300_0093,1970-1974,male,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,55,고등학교,무직,경기,msit2025-age,sonnet,b99a4313e02e4844819d43fe68b4db0f
+syn_r300_0094,1990-1994,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,34,2~3년제 전문대학,그 외 법률 관련 사무원,서울,msit2025-age,sonnet,29ff6b80ca0f41b9b7163ffbe36258c3
+syn_r300_0095,1995-1999,female,general,emp_none,sometimes,,,2026-10-01,,synthetic,1,synthetic,28,대학원,무직,경기,msit2025-age,sonnet,0a011848d84244809bc661ea5facc927
+syn_r300_0096,1995-1999,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,30,4년제 대학교,경영 기획 사무원,서울,msit2025-age,sonnet,93155bd789ac44a4a8650306dff41c99
+syn_r300_0097,1980-1984,female,educator,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,42,4년제 대학교,초등학교 교사,경기,msit2025-age,sonnet,1c4015df890b4e06b84c8c16d3cb3bfa
+syn_r300_0098,1980-1984,female,owner,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,43,2~3년제 전문대학,바텐더,강원,msit2025-age,sonnet,5affc48aa45e4d7d8a8351488e86c678
+syn_r300_0099,1970-1974,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,55,대학원,품질 인증 심사 전문가,경기,msit2025-age,sonnet,ca1125d862714d4386cec51743093679
+syn_r300_0100,1985-1989,male,developer,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,40,4년제 대학교,그 외 상하수도 처리 장치 조작원,전북,msit2025-age,sonnet,e72f31278ca84a7db50233459edab250
+syn_r300_0101,1975-1979,male,marketer,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,50,4년제 대학교,그 외 기획 및 마케팅 사무원,경기,msit2025-age,sonnet,082f52bd183e40db9c6d4b803e6d5b37
+syn_r300_0102,1985-1989,male,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,41,고등학교,무직,충청남,msit2025-age,sonnet,7ba3435929b0443698fb8f146d28a960
+syn_r300_0103,1980-1984,female,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,45,4년제 대학교,경리 사무원,인천,msit2025-age,sonnet,82f5826e6cad40bbbd86ee29b44e5c02
+syn_r300_0104,1990-1994,female,general,emp_none,sometimes,,,2026-10-01,,synthetic,1,synthetic,34,고등학교,무직,울산,msit2025-age,sonnet,76bae899e04e49a79ffdde048dd47d14
+syn_r300_0105,1985-1989,female,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,40,4년제 대학교,해외 영업원,서울,msit2025-age,sonnet,279c42ad49ed4e8199b140db4b8d4860
+syn_r300_0106,1980-1984,male,developer,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,44,4년제 대학교,식품공학 기술자 및 연구원,경기,msit2025-age,sonnet,8e7bd6263c4f4cbab711f57f53677b3a
+syn_r300_0107,1970-1974,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,56,중학교,하역 및 적재 관련 단순 종사원,부산,msit2025-age,sonnet,87666fdebc224e3eb9c22fa03c50dc80
+syn_r300_0108,1960-1964,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,62,고등학교,무직,충청북,msit2025-age,sonnet,b33cf3c78860412da075c96cfc4b8e00
+syn_r300_0109,1985-1989,female,office_worker,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,37,4년제 대학교,품질 인증 심사 전문가,경상남,msit2025-age,sonnet,c9ae90c7e1914cda8e3db68b29e52ba3
+syn_r300_0110,1970-1974,female,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,52,고등학교,무직,경기,msit2025-age,sonnet,c4d4f9b9eb154a8b967c50c05d9ba8b9
+syn_r300_0111,1990-1994,female,general,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,33,2~3년제 전문대학,통신장비 설치 및 수리원,경기,msit2025-age,sonnet,be402c158469479faeff97e03a693c17
+syn_r300_0112,1985-1989,male,general,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,41,고등학교,전기 용접원,울산,msit2025-age,sonnet,a47750fafd164d66834c4e21b6e544a9
+syn_r300_0113,1990-1994,male,general,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,33,2~3년제 전문대학,해군 부사관,경기,msit2025-age,sonnet,0c09133322c9411386af725e21e996f5
+syn_r300_0114,1975-1979,female,general,emp_freelance,never,,,2026-10-01,,synthetic,1,synthetic,51,고등학교,건물용 보일러 설치 및 정비원,경기,msit2025-age,sonnet,ce1b1b7cea4046ef99bbb3ac20b09e3a
+syn_r300_0115,1995-1999,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,27,4년제 대학교,시민 단체 활동가,서울,msit2025-age,sonnet,b4eb29c8a4a046aaaa043e9483f488fb
+syn_r300_0116,1990-1994,female,developer,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,33,4년제 대학교,범용 소프트웨어 프로그래머,경기,msit2025-age,sonnet,c12ceb74df4747cd97934277cd964f5c
+syn_r300_0117,1980-1984,male,developer,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,43,4년제 대학교,기술 감독,서울,msit2025-age,sonnet,b23dea3476ea4adebf4bd91039fe0baf
+syn_r300_0118,1995-1999,male,office_worker,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,31,4년제 대학교,은행 사무원,서울,msit2025-age,sonnet,492aab28984c4d2bb5460995afb8f640
+syn_r300_0119,1990-1994,female,office_worker,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,35,4년제 대학교,관리 비서,전북,msit2025-age,sonnet,702c3bafb08c4d1088a6e5456be34fa6
+syn_r300_0120,2005-2009,male,office_worker,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,20,2~3년제 전문대학,생산관리 사무원,전북,msit2025-age,sonnet,508e1a7f104740a98edd102ce3f9a703
+syn_r300_0121,1970-1974,male,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,55,4년제 대학교,무직,경기,msit2025-age,sonnet,6f8399d0c02248fe93d5ca6b98147ea9
+syn_r300_0122,1985-1989,female,office_worker,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,37,2~3년제 전문대학,전화 상담원,경기,msit2025-age,sonnet,ad4561e922b546898f93d78b7f659c5b
+syn_r300_0123,2000-2004,female,office_worker,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,26,4년제 대학교,조사 전문가,충청북,msit2025-age,sonnet,b5bac2baa4204ae982a7bf836e5cdd56
+syn_r300_0124,1980-1984,male,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,46,고등학교,무직,대구,msit2025-age,sonnet,45ec9961bd2f4c5d93246388cb8aab66
+syn_r300_0125,1990-1994,male,developer,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,36,2~3년제 전문대학,정보 시스템 운영자,서울,msit2025-age,sonnet,da9a043517fd4a3098c688c31bd10801
+syn_r300_0126,1970-1974,male,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,55,4년제 대학교,무직,서울,msit2025-age,sonnet,b6ff916536664559989b88487a3b7661
+syn_r300_0127,1975-1979,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,49,고등학교,무직,전북,msit2025-age,sonnet,db5fdb710e6d4db795581979c67a49b5
+syn_r300_0128,1960-1964,female,general,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,62,고등학교,그 외 직조기 및 편직기 조작원,서울,msit2025-age,sonnet,c059c63ccda74d4d918c514276d31e19
+syn_r300_0129,2000-2004,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,22,2~3년제 전문대학,하역 및 적재 관련 단순 종사원,전라남,msit2025-age,sonnet,42e3b279c0c245af9fca00820ee01dff
+syn_r300_0130,1965-1969,male,general,emp_none,often,,,2026-10-01,,synthetic,1,synthetic,60,고등학교,무직,서울,msit2025-age,sonnet,f1e14ae28e634947bd8bb9572de633f9
+syn_r300_0131,1965-1969,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,60,대학원,경영 기획 사무원,경기,msit2025-age,sonnet,15ca4527f5f04d8cb4e06cb70fa9a786
+syn_r300_0132,1995-1999,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,30,4년제 대학교,생산관리 사무원,경기,msit2025-age,sonnet,9ce748761be24a2a864784e12a69013c
+syn_r300_0133,1990-1994,female,general,emp_none,often,,,2026-10-01,,synthetic,1,synthetic,33,2~3년제 전문대학,무직,인천,msit2025-age,sonnet,92c19a55b24d4fe59cdbc7d3d5fabb96
+syn_r300_0134,1980-1984,female,general,emp_freelance,never,,,2026-10-01,,synthetic,1,synthetic,46,고등학교,가사 도우미,울산,msit2025-age,sonnet,7d5e6c0c6abe4d25b1a3811eef9cd0ba
+syn_r300_0135,1960-1964,male,owner,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,62,고등학교,농수산물 중개인 및 경매사,제주,msit2025-age,sonnet,0cde3d2a28574fe3ba775577d91ff0e1
+syn_r300_0136,1975-1979,male,marketer,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,51,4년제 대학교,마케팅 전문가,서울,msit2025-age,sonnet,ebea6f6ebc0744daba99899203d669da
+syn_r300_0137,1975-1979,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,48,고등학교,중형 화물차 운전원,부산,msit2025-age,sonnet,955d068c4efb42be8dd2bfb658214237
+syn_r300_0138,1995-1999,female,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,31,고등학교,국가행정 사무원,서울,msit2025-age,sonnet,eec36a7d7cfe416686450308e8ee8358
+syn_r300_0139,1985-1989,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,40,중학교,주방 보조원,광주,msit2025-age,sonnet,54838ed689d241bdbf4ed1b4c5028969
+syn_r300_0140,1960-1964,female,general,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,62,중학교,그 외 화학제품 생산기 조작원,강원,msit2025-age,sonnet,69e0a3faeb204b25831a07969ebf4a54
+syn_r300_0141,1985-1989,female,owner,emp_freelance,daily,,,2026-10-01,,synthetic,1,synthetic,37,4년제 대학교,소규모 상점 경영자,경상남,msit2025-age,sonnet,03b97de799464c70979247c12422229f
+syn_r300_0142,1995-1999,male,general,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,28,4년제 대학교,육군 장교,경기,msit2025-age,sonnet,7f93e3b45a5146e4aa6ee0ebfa94b0aa
+syn_r300_0143,2005-2009,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,20,고등학교,그 외 기계 조작원,경기,msit2025-age,sonnet,0f1086fe3812407d8daff254486aab2f
+syn_r300_0144,2000-2004,male,owner,emp_freelance,never,,,2026-10-01,,synthetic,1,synthetic,26,고등학교,노점 및 이동 판매원,충청남,msit2025-age,sonnet,09068baefc8f4a1c979be8df7e2b312c
+syn_r300_0145,1980-1984,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,46,2~3년제 전문대학,무직,서울,msit2025-age,sonnet,9c3eebbe4e2840649d514ada88b0651b
+syn_r300_0146,1990-1994,female,office_worker,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,36,4년제 대학교,위험 관리원,충청남,msit2025-age,sonnet,4442eac507b845a7971bb84139baf9f3
+syn_r300_0147,2000-2004,male,general,emp_none,often,,,2026-10-01,,synthetic,1,synthetic,23,4년제 대학교,무직,강원,msit2025-age,sonnet,2fc8c817e5a34ec2922db384d9f0bd4e
+syn_r300_0148,1995-1999,male,general,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,27,2~3년제 전문대학,지게차 운전원,충청북,msit2025-age,sonnet,321d197f94334172a501547eabbd1048
+syn_r300_0149,1980-1984,male,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,42,4년제 대학교,무직,대구,msit2025-age,sonnet,f055247f6c6e4a69898d1262ae5d9821
+syn_r300_0150,1965-1969,female,general,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,58,중학교,그 외 제조 관련 단순 종사원,대구,msit2025-age,sonnet,11b3d27a005642ee859023d2712045c2
+syn_r300_0151,1970-1974,female,office_worker,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,54,고등학교,전산 자료 입력원,충청남,msit2025-age,sonnet,ef6c01b857ea48db9290596b66a0cfc9
+syn_r300_0152,1995-1999,male,general,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,31,고등학교,육군 장교,인천,msit2025-age,sonnet,7a733bfbc71145fbb0e3f24e87b451d7
+syn_r300_0153,1980-1984,male,general,emp_none,sometimes,,,2026-10-01,,synthetic,1,synthetic,44,고등학교,무직,서울,msit2025-age,sonnet,9b6321c0d3cb4e77a262669d93c2d393
+syn_r300_0154,1965-1969,male,general,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,57,고등학교,정육가공원,강원,msit2025-age,sonnet,b5ad1c6124114069bda4ee372d408a26
+syn_r300_0155,1985-1989,female,office_worker,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,39,4년제 대학교,일반 비서,서울,msit2025-age,sonnet,c057716dd61648438c95c6fec5d4b85b
+syn_r300_0156,1965-1969,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,61,고등학교,그 외 화물차 및 특수차 운전원,서울,msit2025-age,sonnet,a2369a39878c4a79ac6efadd8d9d14c1
+syn_r300_0157,2005-2009,female,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,19,고등학교,무직,인천,msit2025-age,sonnet,7003b96e33c54f04a20ef86949225841
+syn_r300_0158,1995-1999,male,office_worker,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,29,4년제 대학교,경영 기획 사무원,경기,msit2025-age,sonnet,c1f8aedceded4aaa9659cfbd36b3239d
+syn_r300_0159,1965-1969,male,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,61,고등학교,무직,서울,msit2025-age,sonnet,90b9a46fd70b471e990238bdfaad6aef
+syn_r300_0160,1970-1974,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,53,고등학교,무직,울산,msit2025-age,sonnet,4fcf14125ad74d499cf9434b27283407
+syn_r300_0161,1975-1979,male,office_worker,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,49,고등학교,경리 사무원,울산,msit2025-age,sonnet,d5b94eb7546b41158a91f40f22f0aedf
+syn_r300_0162,1965-1969,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,57,중학교,사무 보조원,경기,msit2025-age,sonnet,382c124850ab428c932c1044275826c4
+syn_r300_0163,1995-1999,female,office_worker,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,28,대학원,조사 전문가,경기,msit2025-age,sonnet,313a3781b34e4593abe2ce98f83fbdb5
+syn_r300_0164,2000-2004,female,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,25,2~3년제 전문대학,무직,서울,msit2025-age,sonnet,d96a8c98ba0b4c0881ed506c082efda7
+syn_r300_0165,1960-1964,female,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,62,고등학교,"전직 그 외 자동차 운전원, 현재 구직중",경상북,msit2025-age,sonnet,bcad790f29664e5da2ade19b3f9dcae0
+syn_r300_0166,1975-1979,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,51,고등학교,무직,서울,msit2025-age,sonnet,e44d381a38544984a6bda12112109ea4
+syn_r300_0167,1965-1969,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,59,고등학교,승용차 및 승합차 운전원,대구,msit2025-age,sonnet,7e9f6b42d5694e10a07361a2753f6d90
+syn_r300_0168,1985-1989,female,general,emp_none,sometimes,,,2026-10-01,,synthetic,1,synthetic,38,고등학교,무직,인천,msit2025-age,sonnet,0c4e4a72d3d9430ca8d3459de3d79d3b
+syn_r300_0169,1965-1969,male,office_worker,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,58,4년제 대학교,전화 상담원,부산,msit2025-age,sonnet,e43440558805464dad1d93db72f01b08
+syn_r300_0170,1990-1994,female,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,36,대학원,무직,서울,msit2025-age,sonnet,93aaa2da9a1045ad9a3e27213725b1e6
+syn_r300_0171,1975-1979,female,office_worker,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,47,4년제 대학교,조세행정 사무원,전라남,msit2025-age,sonnet,5b4c57c772cb41aea1df9dbdcc152269
+syn_r300_0172,1990-1994,female,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,34,4년제 대학교,무직,경상북,msit2025-age,sonnet,91f9905932d94773b26181f14370a07d
+syn_r300_0173,1975-1979,male,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,50,4년제 대학교,무직,전라남,msit2025-age,sonnet,c0743e0263e649a8a697a85bc559d11f
+syn_r300_0174,1970-1974,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,55,대학원,외과 전문 의사,서울,msit2025-age,sonnet,46aebf5407a14b97ad9aab28c69f6700
+syn_r300_0175,2000-2004,female,general,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,23,고등학교,단열공,경상남,msit2025-age,sonnet,9f302aebb84f4198bd86ea90e81c5803
+syn_r300_0176,1990-1994,male,general,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,35,2~3년제 전문대학,화학물 증류기 및 반응기 조작원,세종,msit2025-age,sonnet,6f093ad5e4fb4f64988d890baa8bc4db
+syn_r300_0177,1985-1989,male,office_worker,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,38,대학원,경영 기획 사무원,경기,msit2025-age,sonnet,d8d8346d18e74b3a804f8f1e4743193c
+syn_r300_0178,1965-1969,female,owner,emp_freelance,never,,,2026-10-01,,synthetic,1,synthetic,60,중학교,그 외 서비스 관련 단순 종사원,경상남,msit2025-age,sonnet,dd282ebd2180486bb8abe2f98b0fbc66
+syn_r300_0179,1970-1974,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,56,중학교,건물 청소원,경기,msit2025-age,sonnet,fabf3e0f09df4f85907c83ee3636fb24
+syn_r300_0180,2005-2009,female,general,emp_none,often,,,2026-10-01,,synthetic,1,synthetic,21,2~3년제 전문대학,무직,강원,msit2025-age,sonnet,e67ce03544c04dd38e6f4bfca1f6e152
+syn_r300_0182,1990-1994,male,office_worker,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,32,4년제 대학교,품질 관리 사무원,경기,msit2025-age,sonnet,2423a23f5e52466997245f525a6c912a
+syn_r300_0183,1990-1994,female,general,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,34,2~3년제 전문대학,산업 안전원,경기,msit2025-age,sonnet,ef0baaa459464597aef2921419fbd973
+syn_r300_0184,2000-2004,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,25,4년제 대학교,무직,서울,msit2025-age,sonnet,5425163a35f0424eb013f30dbb2673be
+syn_r300_0185,2000-2004,male,office_worker,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,26,4년제 대학교,일반 비서,광주,msit2025-age,sonnet,e7285278bdd247739f1bb19552db41cd
+syn_r300_0186,1990-1994,male,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,33,2~3년제 전문대학,"전직 그 외 화학제품 생산기 조작원, 현재 구직중",경기,msit2025-age,sonnet,4038921d34cf4da8859c60bc8c6a7410
+syn_r300_0187,1985-1989,female,owner,emp_freelance,never,,,2026-10-01,,synthetic,1,synthetic,41,2~3년제 전문대학,소규모 상점 경영자,경상남,msit2025-age,sonnet,6f58ffd87fac4408b85292f5c616f56f
+syn_r300_0188,1990-1994,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,36,2~3년제 전문대학,그 외 도장기 조작원,충청북,msit2025-age,sonnet,5a681af1af074d14b3eeb1ea013bac18
+syn_r300_0189,1985-1989,male,office_worker,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,40,2~3년제 전문대학,법무 사무원,광주,msit2025-age,sonnet,ca6343a8b7a44b20a4caf176edaae846
+syn_r300_0190,1995-1999,male,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,27,4년제 대학교,무직,서울,msit2025-age,sonnet,ce86c039de3f4072b437975396de8fb5
+syn_r300_0191,2000-2004,male,general,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,22,고등학교,그 외 정보 통신기기 설치 및 수리원,대전,msit2025-age,sonnet,d7a3639dab6f42ff8c2882636d991586
+syn_r300_0192,2005-2009,female,office_worker,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,20,2~3년제 전문대학,국가행정 사무원,서울,msit2025-age,sonnet,86f86f3582ad41e9bf291207292da4d1
+syn_r300_0193,2000-2004,male,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,25,대학원,무직,경기,msit2025-age,sonnet,009fb4f35e6c4eafbf3f1c13411194dc
+syn_r300_0194,1990-1994,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,36,2~3년제 전문대학,무직,세종,msit2025-age,sonnet,2c1530c0c3154973bac82bf21689e10f
+syn_r300_0195,2005-2009,male,general,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,21,2~3년제 전문대학,일식 조리사,대구,msit2025-age,sonnet,35bb4e460c1e4f448353333f658b8885
+syn_r300_0196,2005-2009,female,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,19,고등학교,무직,서울,msit2025-age,sonnet,5cf5722517eb47b8bb6602bf0ca025e9
+syn_r300_0197,2000-2004,male,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,25,4년제 대학교,무직,대구,msit2025-age,sonnet,a445e65bc7b6412f8865b8865be5c185
+syn_r300_0198,1980-1984,male,office_worker,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,42,4년제 대학교,금속공학 기술자 및 연구원,경기,msit2025-age,sonnet,fb3bb6f3946046deb95cba23d8708779
+syn_r300_0199,1990-1994,male,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,36,4년제 대학교,무직,서울,msit2025-age,sonnet,1acc342b816143a2a4e477f985bae3b9
+syn_r300_0200,1995-1999,male,office_worker,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,31,2~3년제 전문대학,영업 관리 사무원,경기,msit2025-age,sonnet,dedb2c5376044fcba136a30f7bb46bdb
+syn_r300_0201,1995-1999,female,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,31,4년제 대학교,법무 사무원,서울,msit2025-age,sonnet,b8525fc4c96d420b92d813fedec3f7ca
+syn_r300_0202,2000-2004,female,office_worker,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,26,고등학교,경리 사무원,서울,msit2025-age,sonnet,06a23af8d15d4b7183d2bcef537cbf05
+syn_r300_0203,1990-1994,male,general,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,36,고등학교,건물 해체원,서울,msit2025-age,sonnet,63561aabbf634921a0e1fbbe79b44941
+syn_r300_0204,2000-2004,female,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,26,4년제 대학교,무직,서울,msit2025-age,sonnet,ad8fca18d3084f7c8106cdecf35f80ef
+syn_r300_0205,1995-1999,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,29,대학원,산업 안전원,경기,msit2025-age,sonnet,f4108e8885f34962b733e6a2230c4e7c
+syn_r300_0206,2000-2004,male,owner,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,26,2~3년제 전문대학,단말기 및 통신 서비스 판매원,경기,msit2025-age,sonnet,546560254e8241ac8c4f97c735c356ab
+syn_r300_0207,1990-1994,male,general,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,32,고등학교,가스 배관공,충청남,msit2025-age,sonnet,f4414e570ecd484cbf0fd455a56778ea
+syn_r300_0208,1980-1984,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,44,고등학교,일식 조리사,경기,msit2025-age,sonnet,96128f2e6b934e5cb9d40a6561218aeb
+syn_r300_0209,2000-2004,male,general,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,24,4년제 대학교,시설 경비원,강원,msit2025-age,sonnet,cb04a1a0e63a434a92d690090205557d
+syn_r300_0210,1985-1989,male,general,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,38,4년제 대학교,그 외 건축 관련 기술자,경기,msit2025-age,sonnet,ca031d083384453fb83c0c2dac4b2d67
+syn_r300_0211,1985-1989,female,office_worker,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,38,고등학교,사무 보조원,경기,msit2025-age,sonnet,2352a366755440c6b8d44af9f6a6d890
+syn_r300_0212,1985-1989,male,owner,emp_freelance,sometimes,,,2026-10-01,,synthetic,1,synthetic,39,대학원,기업 대표이사,세종,msit2025-age,sonnet,3dab2130e89448a593d7c07621a629b3
+syn_r300_0213,2005-2009,female,designer,emp_none,often,,,2026-10-01,,synthetic,1,synthetic,20,2~3년제 전문대학,무직,서울,msit2025-age,sonnet,eee4f9b36ff64890b31c2e369b21638b
+syn_r300_0214,1995-1999,female,general,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,27,2~3년제 전문대학,상담 전문가,서울,msit2025-age,sonnet,c158ff2c1a684384b3322f1e78e04d29
+syn_r300_0215,1995-1999,female,general,emp_none,sometimes,,,2026-10-01,,synthetic,1,synthetic,31,2~3년제 전문대학,무직,서울,msit2025-age,sonnet,026c6ef441e345f2bf1c715dcf09e2ef
+syn_r300_0216,2000-2004,male,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,25,고등학교,무직,서울,msit2025-age,sonnet,2c6ca7501e3a4adaaf8a7a0e24dfe4ac
+syn_r300_0217,1980-1984,male,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,42,4년제 대학교,무직,부산,msit2025-age,sonnet,5043a10dc18e403cbf7201c407cf841f
+syn_r300_0218,1995-1999,female,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,30,4년제 대학교,품질 관리 사무원,경기,msit2025-age,sonnet,a145e52de6d14b2794a9f9cbbef97180
+syn_r300_0219,1985-1989,female,owner,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,37,4년제 대학교,전화 상담원,경기,msit2025-age,sonnet,608c67732f4e448aabcd88dac411a1d7
+syn_r300_0220,1995-1999,male,general,emp_none,often,,,2026-10-01,,synthetic,1,synthetic,28,4년제 대학교,무직,서울,msit2025-age,sonnet,95b2851103604cabb9e19ec73f2def98
+syn_r300_0221,1980-1984,male,general,emp_freelance,often,,,2026-10-01,,synthetic,1,synthetic,43,2~3년제 전문대학,경·소형 화물차 운전원,경기,msit2025-age,sonnet,97fc459764c74ae8800a8473d1bb9880
+syn_r300_0222,1995-1999,male,developer,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,30,2~3년제 전문대학,정보 시스템 운영자,서울,msit2025-age,sonnet,b210b536c71444428e72ef4e2c841ee3
+syn_r300_0223,1990-1994,male,marketer,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,33,4년제 대학교,마케팅 전문가,인천,msit2025-age,sonnet,ea5ad6a5b9ae4f0cb7ccef26f5fcc144
+syn_r300_0224,1980-1984,female,owner,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,45,4년제 대학교,커피 조리사,경기,msit2025-age,sonnet,c0e5479c14e34e838be43edfd8b00fe5
+syn_r300_0225,1980-1984,female,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,42,4년제 대학교,사무 보조원,충청남,msit2025-age,sonnet,c5a5187a477842aaa16b619921d61d92
+syn_r300_0226,1985-1989,male,general,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,38,고등학교,건설 단순 종사원,광주,msit2025-age,sonnet,14696daa9254427f9595fd3535263591
+syn_r300_0227,2005-2009,male,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,19,고등학교,무직,경상남,msit2025-age,sonnet,56612473129a4d148471953a112354e6
+syn_r300_0228,1995-1999,male,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,28,2~3년제 전문대학,무직,서울,msit2025-age,sonnet,4217424011484a4ab72444241515fb41
+syn_r300_0229,1985-1989,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,40,고등학교,무직,경기,msit2025-age,sonnet,b2f7acd59883411d9f9af9e0312bba1c
+syn_r300_0230,2000-2004,male,owner,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,22,고등학교,음료 서비스 종사원,경상남,msit2025-age,sonnet,6f01e1b7260a4254bbe76783f4fe6afd
+syn_r300_0231,1985-1989,male,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,41,대학원,무직,경기,msit2025-age,sonnet,ea0b19a1a63e429694ef9c95efc14d1a
+syn_r300_0232,2005-2009,female,educator,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,21,2~3년제 전문대학,그 외 교육 전문가,경기,msit2025-age,sonnet,e6369735b2f34dff893f1597ecda283c
+syn_r300_0233,1995-1999,female,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,30,대학원,무직,경기,msit2025-age,sonnet,ada0355f1f0c4e3082cf80bb2e7ee0d8
+syn_r300_0234,1980-1984,male,general,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,43,고등학교,육류가공 기계 조작원,전라남,msit2025-age,sonnet,5814f3fa69204f16901053d91a8c8d74
+syn_r300_0235,1980-1984,male,general,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,42,2~3년제 전문대학,지게차 운전원,경기,msit2025-age,sonnet,c6c7cc5c6f82479fa55304d9a91a5896
+syn_r300_0236,1985-1989,female,developer,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,41,2~3년제 전문대학,정보 시스템 운영자,경상북,msit2025-age,sonnet,94ba1b8a8bb4408fae1aff542d418348
+syn_r300_0237,1980-1984,male,developer,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,45,고등학교,웹 프로그래머,충청남,msit2025-age,sonnet,7493874958084c43a32ba3bdafe5e67e
+syn_r300_0238,2005-2009,male,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,21,고등학교,무직,충청남,msit2025-age,sonnet,18c41ec01fd44987869bb59d9f91597a
+syn_r300_0239,1995-1999,female,office_worker,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,30,4년제 대학교,사회복지사,서울,msit2025-age,sonnet,ab1ef147671243cdb8529b06efc8e1d3
+syn_r300_0240,2005-2009,female,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,19,고등학교,무직,경상남,msit2025-age,sonnet,29af9be5c4064fdeb6fc2d03d1b2bfa5
+syn_r300_0241,1995-1999,male,marketer,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,31,2~3년제 전문대학,마케팅 전문가,울산,msit2025-age,sonnet,6f24d307ac0d45e787e8de6bf0177f97
+syn_r300_0242,1995-1999,female,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,29,4년제 대학교,무직,부산,msit2025-age,sonnet,9e7f49de93a4432eab582313157d3333
+syn_r300_0243,2000-2004,female,general,emp_none,often,,,2026-10-01,,synthetic,1,synthetic,23,4년제 대학교,무직,부산,msit2025-age,sonnet,b362c13bb6664c4fa026cae89f9746f9
+syn_r300_0244,1990-1994,female,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,35,고등학교,법무 사무원,충청북,msit2025-age,sonnet,aad08f9f1dce4a748654d2e163e35c1a
+syn_r300_0245,1985-1989,male,general,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,39,2~3년제 전문대학,그 외 물품 이동 장비 조작원,광주,msit2025-age,sonnet,f4992e42cfb147eaaa587a6f59561520
+syn_r300_0246,1990-1994,female,general,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,36,2~3년제 전문대학,석 공예원,충청북,msit2025-age,sonnet,c9a41f84ff994d19a49607f641a08600
+syn_r300_0247,1980-1984,female,educator,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,43,4년제 대학교,보육 관련 시설 서비스 종사원,충청남,msit2025-age,sonnet,b12e871c4bf34fb2b0dc52f750746eba
+syn_r300_0248,1995-1999,female,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,30,4년제 대학교,무직,충청북,msit2025-age,sonnet,22a28facd3b34333a45feab5175859cc
+syn_r300_0249,1995-1999,male,office_worker,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,30,2~3년제 전문대학,회계 사무원,경상북,msit2025-age,sonnet,25e79b57bb74487192fc4637d74154cd
+syn_r300_0250,1980-1984,female,general,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,45,4년제 대학교,일식 조리사,전라남,msit2025-age,sonnet,ba9e025bc82a4370b25cee86e8a65222
+syn_r300_0251,1990-1994,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,32,4년제 대학교,전동차 기관사,서울,msit2025-age,sonnet,410d723588af4c63a8c4141b06a41f20
+syn_r300_0252,1985-1989,female,general,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,37,고등학교,그 외 운송장비 정비원,경기,msit2025-age,sonnet,db14a5eee681489990b01dd823d9c54e
+syn_r300_0253,1985-1989,male,office_worker,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,41,4년제 대학교,품질 관리 사무원,경기,msit2025-age,sonnet,edee0925f451413a87fafc381c3aa73e
+syn_r300_0254,2005-2009,male,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,20,2~3년제 전문대학,무직,충청북,msit2025-age,sonnet,5458fea9a76b4730a2150a63c74035d7
+syn_r300_0255,1990-1994,female,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,36,고등학교,무직,울산,msit2025-age,sonnet,35b8f6f36a7a4e56b9dd3d1fd1fcdf61
+syn_r300_0256,1995-1999,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,30,고등학교,하역 및 적재 관련 단순 종사원,서울,msit2025-age,sonnet,5635d1591017407a9840eb95d94a7109
+syn_r300_0257,1990-1994,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,33,4년제 대학교,인사 및 노무 사무원,경기,msit2025-age,sonnet,a3fe357b9f9a473eadb0953ba2667ce1
+syn_r300_0258,1995-1999,male,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,30,4년제 대학교,금속기계 부품 조립원,경상남,msit2025-age,sonnet,ccccdbd544fc4caea2b5cd975be2bea0
+syn_r300_0259,1995-1999,female,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,30,4년제 대학교,무직,부산,msit2025-age,sonnet,ed603cee423b48d3a280f66a4ec859b7
+syn_r300_0260,1980-1984,female,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,42,대학원,조사 전문가,서울,msit2025-age,sonnet,eb805f7e90f14133b82ddf5e41fb965b
+syn_r300_0261,1990-1994,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,36,4년제 대학교,품질 인증 심사 전문가,경상북,msit2025-age,sonnet,9db22acdd91e469d8ffa14749fd5caab
+syn_r300_0262,1985-1989,female,developer,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,41,4년제 대학교,범용 소프트웨어 프로그래머,충청남,msit2025-age,sonnet,b5b208a7189247b0a2c4de2d0e7bba08
+syn_r300_0263,1985-1989,female,office_worker,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,40,4년제 대학교,관리 비서,서울,msit2025-age,sonnet,8b12d35998b3464db30d0e8988d11e6b
+syn_r300_0264,2005-2009,male,general,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,20,고등학교,전기 용접원,부산,msit2025-age,sonnet,7beb89919d684f2485db09b28213cee8
+syn_r300_0265,1980-1984,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,45,고등학교,무직,충청북,msit2025-age,sonnet,4e18b6ea27ad4d5299cc2347bcfc5a38
+syn_r300_0266,1995-1999,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,29,4년제 대학교,생산관리 사무원,경상북,msit2025-age,sonnet,02e23b29742c46a1889b0f79ea691fd8
+syn_r300_0267,1990-1994,female,marketer,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,33,4년제 대학교,"전직 광고 전문가, 현재 구직중",서울,msit2025-age,sonnet,243aca4ba5444a3d83f011b2f6d90ef0
+syn_r300_0268,1990-1994,male,office_worker,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,35,4년제 대학교,법무 사무원,서울,msit2025-age,sonnet,a2ef8f2dffb44d568f5c50bf8be7412a
+syn_r300_0269,1995-1999,male,developer,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,28,4년제 대학교,전기 안전 기술자 및 연구원,경상남,msit2025-age,sonnet,f99a9255f2034e20b57e2d9a906d728b
+syn_r300_0271,2000-2004,male,general,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,23,2~3년제 전문대학,자동차 엔진 조립원,부산,msit2025-age,sonnet,57fa76258b1a460586775120f73dc760
+syn_r300_0272,2000-2004,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,25,4년제 대학교,무직,경기,msit2025-age,sonnet,f743bcb2c16a4850b1d4a1d1786da2c9
+syn_r300_0273,1995-1999,male,marketer,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,28,4년제 대학교,마케팅 전문가,경기,msit2025-age,sonnet,d5b2826624784ba39d13dc38959dce8c
+syn_r300_0274,1995-1999,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,27,4년제 대학교,그 외 제도사,경기,msit2025-age,sonnet,d249eeb7d26f477a83e09eb5f376ddc9
+syn_r300_0275,1980-1984,male,office_worker,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,44,4년제 대학교,무역 사무원,울산,msit2025-age,sonnet,1594508a72de4c298d84b9c2b81bbcba
+syn_r300_0276,2000-2004,female,developer,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,26,4년제 대학교,시스템 소프트웨어 설계 및 분석가,대전,msit2025-age,sonnet,b3617ecde75a4157a511cdac85405410
+syn_r300_0277,1990-1994,female,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,32,4년제 대학교,무직,서울,msit2025-age,sonnet,e9ecdedcb4f24d679deced8bbaa31bf1
+syn_r300_0278,2005-2009,female,student,emp_none,often,,,2026-10-01,,synthetic,1,synthetic,19,고등학교,무직,전라남,msit2025-age,sonnet,db962035d3174c99bc04457cba72a14a
+syn_r300_0279,1985-1989,female,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,41,2~3년제 전문대학,무직,경기,msit2025-age,sonnet,a15db99cc26147e2897067d2764fc962
+syn_r300_0280,2000-2004,male,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,23,2~3년제 전문대학,무직,경상남,msit2025-age,sonnet,e2896bf045084740aa30c033e2f402f9
+syn_r300_0281,1980-1984,female,office_worker,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,42,2~3년제 전문대학,관리 비서,경기,msit2025-age,sonnet,b4c21987432f400ca1f97e8069c12ac9
+syn_r300_0282,1985-1989,male,general,emp_none,never,,,2026-10-01,,synthetic,1,synthetic,41,2~3년제 전문대학,무직,경기,msit2025-age,sonnet,869fff860c78478b88acc62e226a1217
+syn_r300_0283,2000-2004,male,office_worker,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,25,2~3년제 전문대학,경리 사무원,서울,msit2025-age,sonnet,a89fa56f8ae04a638b9a9e8f99e275ce
+syn_r300_0284,2000-2004,male,general,emp_org,sometimes,,,2026-10-01,,synthetic,1,synthetic,23,고등학교,중식 조리사,대전,msit2025-age,sonnet,0bcfeaa57ea740748b6e76ce00d5a8d5
+syn_r300_0285,2000-2004,female,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,26,4년제 대학교,무직,서울,msit2025-age,sonnet,0995340878394976a2078546f96c851c
+syn_r300_0286,2000-2004,male,general,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,24,4년제 대학교,선박 배관공,부산,msit2025-age,sonnet,3356d7a79a504432b2fd40a92ee61572
+syn_r300_0287,1990-1994,female,educator,emp_freelance,often,,,2026-10-01,,synthetic,1,synthetic,34,고등학교,학습지 방문강사,강원,msit2025-age,sonnet,98e3f42f9a814dd992b370675f6eeb56
+syn_r300_0288,1995-1999,female,general,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,31,2~3년제 전문대학,양식 조리사,서울,msit2025-age,sonnet,8fa8291471454b00af77284cfccaa961
+syn_r300_0289,2000-2004,male,general,emp_none,daily,,,2026-10-01,,synthetic,1,synthetic,25,초등학교,무직,경기,msit2025-age,sonnet,137434927ce446908e8a76f3dffe566d
+syn_r300_0290,1985-1989,male,office_worker,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,40,대학원,경영 컨설턴트,대전,msit2025-age,sonnet,78059e14df974a8daab0adfd6a01109c
+syn_r300_0291,2005-2009,female,owner,emp_org,never,,,2026-10-01,,synthetic,1,synthetic,21,2~3년제 전문대학,음식 서비스 종사원,대구,msit2025-age,sonnet,84c3898567c14799bbc169d9b61ba6f0
+syn_r300_0292,2000-2004,male,general,emp_none,sometimes,,,2026-10-01,,synthetic,1,synthetic,24,고등학교,무직,강원,msit2025-age,sonnet,5936d6b46ff54045970bd4a3e6655f6b
+syn_r300_0293,1990-1994,female,office_worker,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,32,4년제 대학교,법무 사무원,충청남,msit2025-age,sonnet,2971308813c942a2aaa107ddd26bbe5d
+syn_r300_0294,1985-1989,female,general,emp_none,tried,,,2026-10-01,,synthetic,1,synthetic,41,대학원,무직,인천,msit2025-age,sonnet,755392f6c5c947299e29cf2adbf6ecf9
+syn_r300_0295,1995-1999,female,general,emp_org,often,,,2026-10-01,,synthetic,1,synthetic,30,4년제 대학교,119 구조대원,서울,msit2025-age,sonnet,bebc8a21467b484bb3bcab7173ac0000
+syn_r300_0296,1990-1994,male,general,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,33,고등학교,선반기 조작원,충청남,msit2025-age,sonnet,4a63aa892d1a4f90956c6e16ff5c98e2
+syn_r300_0297,1995-1999,male,general,emp_org,tried,,,2026-10-01,,synthetic,1,synthetic,27,고등학교,가죽 및 모피 가공원,부산,msit2025-age,sonnet,bc3b3598299547e9a045095f8b67dac3
+syn_r300_0298,2000-2004,female,general,emp_none,often,,,2026-10-01,,synthetic,1,synthetic,25,2~3년제 전문대학,무직,경기,msit2025-age,sonnet,b03c07ca971f4b4a9831af80abaf2f26
+syn_r300_0299,1990-1994,female,office_worker,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,34,2~3년제 전문대학,그 외 법률 관련 사무원,서울,msit2025-age,sonnet,5b14259f04e140c699a314d6c3d6da63
+syn_r300_0300,1985-1989,female,educator,emp_org,daily,,,2026-10-01,,synthetic,1,synthetic,39,4년제 대학교,유치원 교사,충청남,msit2025-age,sonnet,2239b6e378f748a385528d0d43c59dfa

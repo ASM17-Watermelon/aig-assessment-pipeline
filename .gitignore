@@ -1,0 +1,6 @@
+node_modules/
+runs/
+.Rhistory
+.RData
+.DS_Store
+*.parquet

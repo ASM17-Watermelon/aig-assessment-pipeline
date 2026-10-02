@@ -1,0 +1,14 @@
+{
+  "name": "aig-assessment-pipeline",
+  "private": true,
+  "description": "Virtual respondent simulation, automated CFA gate and 2PL IRT calibration for an AIG-based dynamic assessment",
+  "license": "SEE LICENSE IN LICENSE",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test simulation/*.test.mjs validation/cfa/*.test.mjs",
+    "reproduce": "bash scripts/reproduce.sh",
+    "demo": "bash scripts/demo-pipeline.sh"
+  }
+}

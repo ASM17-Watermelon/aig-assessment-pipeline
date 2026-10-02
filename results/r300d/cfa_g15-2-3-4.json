@@ -1,0 +1,863 @@
+{
+  "snapshot": "data/r300d",
+  "model": "g15-2-3-4",
+  "groups": "1+5,2,3,4",
+  "level": "position",
+  "subset": "all",
+  "missing": "listwise",
+  "criteria": {
+    "cfi": 0.9,
+    "tli": 0.9,
+    "rmsea": 0.08,
+    "srmr_small_n": 0.1,
+    "srmr_large_n": 0.08,
+    "srmr_n_split": 500,
+    "wrmr": 1,
+    "loading_min": 0.4,
+    "factor_corr_max": 0.85,
+    "min_n": 200,
+    "item_drop_loading": 0.3,
+    "extreme_p": [0.1, 0.9],
+    "min_items_per_dim": 4
+  },
+  "items_used": 98,
+  "per_dimension": [17, 23, 19, 23, 16],
+  "n_total": 298,
+  "n_complete": 298,
+  "r_version": "R version 4.6.1 (2026-06-24)",
+  "lavaan_version": "0.7.2",
+  "started_at": "2026-10-02T03:40:07+0900",
+  "fit": {
+    "chisq": 4600.6426,
+    "df": 4539,
+    "pvalue": 0.2575,
+    "cfi": 0.9895,
+    "tli": 0.989,
+    "rmsea": 0.0068,
+    "rmsea.ci.upper": 0.0129,
+    "srmr": 0.0791,
+    "wrmr": 0.8875
+  },
+  "loadings": [
+    {
+      "factor": "D15",
+      "item": "D5-04s011",
+      "est": 0.4154,
+      "se": 0.0691,
+      "pvalue": 1.8014e-09
+    },
+    {
+      "factor": "D15",
+      "item": "D1-04s023",
+      "est": 0.4889,
+      "se": 0.0656,
+      "pvalue": 9.2149e-14
+    },
+    {
+      "factor": "D15",
+      "item": "D1-04s014",
+      "est": 0.4037,
+      "se": 0.0701,
+      "pvalue": 8.3222e-09
+    },
+    {
+      "factor": "D15",
+      "item": "D5-06s902",
+      "est": 0.4929,
+      "se": 0.0645,
+      "pvalue": 2.0872e-14
+    },
+    {
+      "factor": "D15",
+      "item": "D1-09s016",
+      "est": 0.3332,
+      "se": 0.0729,
+      "pvalue": 4.8004e-06
+    },
+    {
+      "factor": "D15",
+      "item": "D5-05s904",
+      "est": 0.6537,
+      "se": 0.0556,
+      "pvalue": 0
+    },
+    {
+      "factor": "D15",
+      "item": "D1-01s001",
+      "est": 0.3465,
+      "se": 0.0736,
+      "pvalue": 2.5142e-06
+    },
+    {
+      "factor": "D15",
+      "item": "D1-02s012",
+      "est": 0.5127,
+      "se": 0.0643,
+      "pvalue": 1.5543e-15
+    },
+    {
+      "factor": "D15",
+      "item": "D1-09s018",
+      "est": 0.3771,
+      "se": 0.0737,
+      "pvalue": 3.1012e-07
+    },
+    {
+      "factor": "D15",
+      "item": "D1-01s003",
+      "est": 0.363,
+      "se": 0.071,
+      "pvalue": 3.1457e-07
+    },
+    {
+      "factor": "D15",
+      "item": "D5-08s031",
+      "est": 0.5768,
+      "se": 0.0635,
+      "pvalue": 0
+    },
+    {
+      "factor": "D15",
+      "item": "D1-06s024",
+      "est": 0.4846,
+      "se": 0.0647,
+      "pvalue": 7.2164e-14
+    },
+    {
+      "factor": "D15",
+      "item": "D5-08s029",
+      "est": 0.6514,
+      "se": 0.0583,
+      "pvalue": 0
+    },
+    {
+      "factor": "D15",
+      "item": "D1-09s032",
+      "est": 0.2877,
+      "se": 0.0699,
+      "pvalue": 0
+    },
+    {
+      "factor": "D15",
+      "item": "D5-07s902",
+      "est": 0.1966,
+      "se": 0.075,
+      "pvalue": 0.0088
+    },
+    {
+      "factor": "D15",
+      "item": "D1-02s013",
+      "est": 0.3832,
+      "se": 0.0686,
+      "pvalue": 2.3426e-08
+    },
+    {
+      "factor": "D15",
+      "item": "D5-04s023",
+      "est": 0.4581,
+      "se": 0.0674,
+      "pvalue": 1.0447e-11
+    },
+    {
+      "factor": "D15",
+      "item": "D5-05s903",
+      "est": 0.6043,
+      "se": 0.0594,
+      "pvalue": 0
+    },
+    {
+      "factor": "D15",
+      "item": "D1-04s020",
+      "est": 0.4447,
+      "se": 0.0668,
+      "pvalue": 2.7133e-11
+    },
+    {
+      "factor": "D15",
+      "item": "D1-02s011",
+      "est": 0.4105,
+      "se": 0.0683,
+      "pvalue": 1.8725e-09
+    },
+    {
+      "factor": "D15",
+      "item": "D5-07s903",
+      "est": 0.361,
+      "se": 0.0711,
+      "pvalue": 3.8506e-07
+    },
+    {
+      "factor": "D15",
+      "item": "D5-05s901",
+      "est": 0.5003,
+      "se": 0.0661,
+      "pvalue": 3.7748e-14
+    },
+    {
+      "factor": "D15",
+      "item": "D5-04s018",
+      "est": 0.4773,
+      "se": 0.0647,
+      "pvalue": 1.5876e-13
+    },
+    {
+      "factor": "D15",
+      "item": "D5-06s901",
+      "est": 0.5206,
+      "se": 0.0614,
+      "pvalue": 0
+    },
+    {
+      "factor": "D15",
+      "item": "D1-06s015",
+      "est": 0.5694,
+      "se": 0.0591,
+      "pvalue": 0
+    },
+    {
+      "factor": "D15",
+      "item": "D5-06s904",
+      "est": 0.4473,
+      "se": 0.0678,
+      "pvalue": 4.2383e-11
+    },
+    {
+      "factor": "D15",
+      "item": "D1-06s025",
+      "est": 0.5773,
+      "se": 0.0603,
+      "pvalue": 0
+    },
+    {
+      "factor": "D15",
+      "item": "D1-01s009",
+      "est": 0.2747,
+      "se": 0.0712,
+      "pvalue": 0.0001
+    },
+    {
+      "factor": "D15",
+      "item": "D5-08s101",
+      "est": 0.5961,
+      "se": 0.0602,
+      "pvalue": 0
+    },
+    {
+      "factor": "D15",
+      "item": "D5-07s901",
+      "est": 0.2264,
+      "se": 0.0761,
+      "pvalue": 0.0029
+    },
+    {
+      "factor": "D15",
+      "item": "D1-02s019",
+      "est": 0.5477,
+      "se": 0.0624,
+      "pvalue": 0
+    },
+    {
+      "factor": "D15",
+      "item": "D1-01s010",
+      "est": 0.4153,
+      "se": 0.0672,
+      "pvalue": 6.519e-10
+    },
+    {
+      "factor": "D15",
+      "item": "D5-04s001",
+      "est": 0.6571,
+      "se": 0.0555,
+      "pvalue": 0
+    },
+    {
+      "factor": "D2",
+      "item": "D2-04s044",
+      "est": 0.5502,
+      "se": 0.0677,
+      "pvalue": 4.4409e-16
+    },
+    {
+      "factor": "D2",
+      "item": "D2-03s902",
+      "est": 0.598,
+      "se": 0.0675,
+      "pvalue": 0
+    },
+    {
+      "factor": "D2",
+      "item": "D2-04s043",
+      "est": 0.6363,
+      "se": 0.0623,
+      "pvalue": 0
+    },
+    {
+      "factor": "D2",
+      "item": "D2-05s904",
+      "est": 0.554,
+      "se": 0.0671,
+      "pvalue": 2.2204e-16
+    },
+    {
+      "factor": "D2",
+      "item": "D2-04s042",
+      "est": 0.5497,
+      "se": 0.0688,
+      "pvalue": 1.3323e-15
+    },
+    {
+      "factor": "D2",
+      "item": "D2-06s902",
+      "est": 0.5552,
+      "se": 0.0694,
+      "pvalue": 1.3323e-15
+    },
+    {
+      "factor": "D2",
+      "item": "D2-01s022",
+      "est": 0.5783,
+      "se": 0.0712,
+      "pvalue": 4.4409e-16
+    },
+    {
+      "factor": "D2",
+      "item": "D2-07s902",
+      "est": 0.581,
+      "se": 0.0649,
+      "pvalue": 0
+    },
+    {
+      "factor": "D2",
+      "item": "D2-03s901",
+      "est": 0.5619,
+      "se": 0.0689,
+      "pvalue": 4.4409e-16
+    },
+    {
+      "factor": "D2",
+      "item": "D2-01s021",
+      "est": 0.6287,
+      "se": 0.0682,
+      "pvalue": 0
+    },
+    {
+      "factor": "D2",
+      "item": "D2-08s901",
+      "est": 0.4161,
+      "se": 0.0765,
+      "pvalue": 5.4325e-08
+    },
+    {
+      "factor": "D2",
+      "item": "D2-03s904",
+      "est": 0.5034,
+      "se": 0.0768,
+      "pvalue": 5.6759e-11
+    },
+    {
+      "factor": "D2",
+      "item": "D2-06s904",
+      "est": 0.512,
+      "se": 0.0741,
+      "pvalue": 4.867e-12
+    },
+    {
+      "factor": "D2",
+      "item": "D2-07s904",
+      "est": 0.5031,
+      "se": 0.0733,
+      "pvalue": 6.8634e-12
+    },
+    {
+      "factor": "D2",
+      "item": "D2-08s903",
+      "est": 0.4856,
+      "se": 0.0729,
+      "pvalue": 2.7555e-11
+    },
+    {
+      "factor": "D2",
+      "item": "D2-05s901",
+      "est": 0.4992,
+      "se": 0.0706,
+      "pvalue": 1.517e-12
+    },
+    {
+      "factor": "D2",
+      "item": "D2-04s040",
+      "est": 0.3961,
+      "se": 0.0763,
+      "pvalue": 2.0554e-07
+    },
+    {
+      "factor": "D2",
+      "item": "D2-05s902",
+      "est": 0.5533,
+      "se": 0.0661,
+      "pvalue": 0
+    },
+    {
+      "factor": "D2",
+      "item": "D2-06s901",
+      "est": 0.4917,
+      "se": 0.0721,
+      "pvalue": 9.2046e-12
+    },
+    {
+      "factor": "D2",
+      "item": "D2-01s017",
+      "est": 0.6856,
+      "se": 0.063,
+      "pvalue": 0
+    },
+    {
+      "factor": "D2",
+      "item": "D2-01s020",
+      "est": 0.6561,
+      "se": 0.0648,
+      "pvalue": 0
+    },
+    {
+      "factor": "D2",
+      "item": "D2-07s901",
+      "est": 0.5425,
+      "se": 0.0693,
+      "pvalue": 4.885e-15
+    },
+    {
+      "factor": "D2",
+      "item": "D2-08s904",
+      "est": 0.5297,
+      "se": 0.0699,
+      "pvalue": 3.4861e-14
+    },
+    {
+      "factor": "D3",
+      "item": "D3-04s013",
+      "est": 0.6359,
+      "se": 0.0672,
+      "pvalue": 0
+    },
+    {
+      "factor": "D3",
+      "item": "D3-02s050",
+      "est": 0.5395,
+      "se": 0.066,
+      "pvalue": 2.2204e-16
+    },
+    {
+      "factor": "D3",
+      "item": "D3-03s057",
+      "est": 0.5461,
+      "se": 0.0688,
+      "pvalue": 2.2204e-15
+    },
+    {
+      "factor": "D3",
+      "item": "D3-06s027",
+      "est": 0.4822,
+      "se": 0.0691,
+      "pvalue": 3.0225e-12
+    },
+    {
+      "factor": "D3",
+      "item": "D3-03s055",
+      "est": 0.5949,
+      "se": 0.0642,
+      "pvalue": 0
+    },
+    {
+      "factor": "D3",
+      "item": "D3-05s064",
+      "est": 0.5195,
+      "se": 0.0674,
+      "pvalue": 1.2434e-14
+    },
+    {
+      "factor": "D3",
+      "item": "D3-10s075",
+      "est": 0.4915,
+      "se": 0.068,
+      "pvalue": 4.9538e-13
+    },
+    {
+      "factor": "D3",
+      "item": "D3-03s059",
+      "est": 0.5908,
+      "se": 0.0661,
+      "pvalue": 0
+    },
+    {
+      "factor": "D3",
+      "item": "D3-10s080",
+      "est": 0.4363,
+      "se": 0.074,
+      "pvalue": 3.7918e-09
+    },
+    {
+      "factor": "D3",
+      "item": "D3-04s012",
+      "est": 0.5413,
+      "se": 0.0689,
+      "pvalue": 4.2188e-15
+    },
+    {
+      "factor": "D3",
+      "item": "D3-05s065",
+      "est": 0.6532,
+      "se": 0.0606,
+      "pvalue": 0
+    },
+    {
+      "factor": "D3",
+      "item": "D3-04s040",
+      "est": 0.5105,
+      "se": 0.0734,
+      "pvalue": 3.5798e-12
+    },
+    {
+      "factor": "D3",
+      "item": "D3-06s019",
+      "est": 0.6444,
+      "se": 0.0607,
+      "pvalue": 0
+    },
+    {
+      "factor": "D3",
+      "item": "D3-02s047",
+      "est": 0.5316,
+      "se": 0.0658,
+      "pvalue": 6.6613e-16
+    },
+    {
+      "factor": "D3",
+      "item": "D3-02s053",
+      "est": 0.5241,
+      "se": 0.0673,
+      "pvalue": 6.6613e-15
+    },
+    {
+      "factor": "D3",
+      "item": "D3-05s058",
+      "est": 0.5858,
+      "se": 0.0642,
+      "pvalue": 0
+    },
+    {
+      "factor": "D3",
+      "item": "D3-06s034",
+      "est": 0.566,
+      "se": 0.0639,
+      "pvalue": 0
+    },
+    {
+      "factor": "D3",
+      "item": "D3-02s051",
+      "est": 0.549,
+      "se": 0.0646,
+      "pvalue": 0
+    },
+    {
+      "factor": "D3",
+      "item": "D3-10s072",
+      "est": 0.6137,
+      "se": 0.0591,
+      "pvalue": 0
+    },
+    {
+      "factor": "D4",
+      "item": "D4-02s090",
+      "est": 0.449,
+      "se": 0.0729,
+      "pvalue": 7.3245e-10
+    },
+    {
+      "factor": "D4",
+      "item": "D4-07s009",
+      "est": 0.5537,
+      "se": 0.0665,
+      "pvalue": 0
+    },
+    {
+      "factor": "D4",
+      "item": "D4-09s056",
+      "est": 0.3666,
+      "se": 0.0753,
+      "pvalue": 1.1248e-06
+    },
+    {
+      "factor": "D4",
+      "item": "D4-08s084",
+      "est": 0.5171,
+      "se": 0.0702,
+      "pvalue": 1.7497e-13
+    },
+    {
+      "factor": "D4",
+      "item": "D4-02s092",
+      "est": 0.5171,
+      "se": 0.0678,
+      "pvalue": 2.5091e-14
+    },
+    {
+      "factor": "D4",
+      "item": "D4-02s091",
+      "est": 0.4623,
+      "se": 0.074,
+      "pvalue": 4.0783e-10
+    },
+    {
+      "factor": "D4",
+      "item": "D4-05s022",
+      "est": 0.5879,
+      "se": 0.0648,
+      "pvalue": 0
+    },
+    {
+      "factor": "D4",
+      "item": "D4-03s093",
+      "est": 0.5171,
+      "se": 0.0693,
+      "pvalue": 8.5487e-14
+    },
+    {
+      "factor": "D4",
+      "item": "D4-05s016",
+      "est": 0.4816,
+      "se": 0.0703,
+      "pvalue": 7.3592e-12
+    },
+    {
+      "factor": "D4",
+      "item": "D4-03s008",
+      "est": 0.581,
+      "se": 0.0637,
+      "pvalue": 0
+    },
+    {
+      "factor": "D4",
+      "item": "D4-01s083",
+      "est": 0.3492,
+      "se": 0.0766,
+      "pvalue": 5.1481e-06
+    },
+    {
+      "factor": "D4",
+      "item": "D4-02s086",
+      "est": 0.3572,
+      "se": 0.0747,
+      "pvalue": 1.7376e-06
+    },
+    {
+      "factor": "D4",
+      "item": "D4-01s073",
+      "est": 0.4705,
+      "se": 0.0716,
+      "pvalue": 4.9878e-11
+    },
+    {
+      "factor": "D4",
+      "item": "D4-09s015",
+      "est": 0.5519,
+      "se": 0.0684,
+      "pvalue": 6.6613e-16
+    },
+    {
+      "factor": "D4",
+      "item": "D4-04s095",
+      "est": 0.4966,
+      "se": 0.0721,
+      "pvalue": 5.8746e-12
+    },
+    {
+      "factor": "D4",
+      "item": "D4-09s100",
+      "est": 0.6252,
+      "se": 0.0628,
+      "pvalue": 0
+    },
+    {
+      "factor": "D4",
+      "item": "D4-08s099",
+      "est": 0.4221,
+      "se": 0.0708,
+      "pvalue": 2.5081e-09
+    },
+    {
+      "factor": "D4",
+      "item": "D4-01s082",
+      "est": 0.452,
+      "se": 0.0703,
+      "pvalue": 1.3216e-10
+    },
+    {
+      "factor": "D4",
+      "item": "D4-04s069",
+      "est": 0.4661,
+      "se": 0.0717,
+      "pvalue": 7.8098e-11
+    },
+    {
+      "factor": "D4",
+      "item": "D4-05s014",
+      "est": 0.4716,
+      "se": 0.073,
+      "pvalue": 1.0361e-10
+    },
+    {
+      "factor": "D4",
+      "item": "D4-07s008",
+      "est": 0.4609,
+      "se": 0.071,
+      "pvalue": 8.5843e-11
+    },
+    {
+      "factor": "D4",
+      "item": "D4-03s074",
+      "est": 0.4759,
+      "se": 0.0733,
+      "pvalue": 8.5967e-11
+    },
+    {
+      "factor": "D4",
+      "item": "D4-04s026",
+      "est": 0.5672,
+      "se": 0.063,
+      "pvalue": 0
+    }
+  ],
+  "factor_corr": [
+    {
+      "f1": "D15",
+      "f2": "D2",
+      "est": 0.7219,
+      "se": 0.0408,
+      "ci_upper": 0.8018
+    },
+    {
+      "f1": "D15",
+      "f2": "D3",
+      "est": 0.8487,
+      "se": 0.0296,
+      "ci_upper": 0.9067
+    },
+    {
+      "f1": "D15",
+      "f2": "D4",
+      "est": 0.8082,
+      "se": 0.0348,
+      "ci_upper": 0.8765
+    },
+    {
+      "f1": "D2",
+      "f2": "D3",
+      "est": 0.6302,
+      "se": 0.0458,
+      "ci_upper": 0.7201
+    },
+    {
+      "f1": "D2",
+      "f2": "D4",
+      "est": 0.6645,
+      "se": 0.0479,
+      "ci_upper": 0.7584
+    },
+    {
+      "f1": "D3",
+      "f2": "D4",
+      "est": 0.7127,
+      "se": 0.0431,
+      "ci_upper": 0.7971
+    }
+  ],
+  "modindices_top10": [
+    {
+      "lhs": "D2",
+      "op": "=~",
+      "rhs": "D4-04s095",
+      "mi": 18.7883
+    },
+    {
+      "lhs": "D4",
+      "op": "=~",
+      "rhs": "D1-02s012",
+      "mi": 16.5438
+    },
+    {
+      "lhs": "D2",
+      "op": "=~",
+      "rhs": "D5-06s902",
+      "mi": 15.9765
+    },
+    {
+      "lhs": "D15",
+      "op": "=~",
+      "rhs": "D4-04s095",
+      "mi": 13.7098
+    },
+    {
+      "lhs": "D3",
+      "op": "=~",
+      "rhs": "D5-06s901",
+      "mi": 12.9368
+    },
+    {
+      "lhs": "D2",
+      "op": "=~",
+      "rhs": "D1-04s023",
+      "mi": 12.1091
+    },
+    {
+      "lhs": "D1-09s032",
+      "op": "~~",
+      "rhs": "D4-08s099",
+      "mi": 11.4947
+    },
+    {
+      "lhs": "D3",
+      "op": "=~",
+      "rhs": "D1-01s003",
+      "mi": 10.8542
+    },
+    {
+      "lhs": "D2",
+      "op": "=~",
+      "rhs": "D4-08s084",
+      "mi": 10.7114
+    },
+    {
+      "lhs": "D2",
+      "op": "=~",
+      "rhs": "D5-04s018",
+      "mi": 10.6903
+    }
+  ],
+  "comparison": {
+    "one": {
+      "model": "one",
+      "chisq_diff": 491.562,
+      "df_diff": 6,
+      "pvalue": 5.5241e-103,
+      "cfi": 0.9594,
+      "delta_cfi": 0.0301,
+      "rejected": true
+    }
+  },
+  "verdict": {
+    "status": "pass",
+    "n_used": 298,
+    "n_ok": true,
+    "fit_ok": true,
+    "fit_ok_core": true,
+    "srmr_ok": true,
+    "srmr_line": 0.1,
+    "wrmr_ok": true,
+    "discriminant_ok": true,
+    "dims_ok": true,
+    "weak_items": ["D1-09s016", "D1-01s001", "D1-09s018", "D1-01s003", "D1-09s032", "D5-07s902", "D1-02s013", "D5-07s903", "D1-01s009", "D5-07s901", "D2-04s040", "D4-09s056", "D4-01s083", "D4-02s086"],
+    "drop_items": ["D1-09s032", "D5-07s902", "D1-01s009", "D5-07s901"],
+    "efa_fallback_candidate": false,
+    "converged": true
+  },
+  "elapsed_sec": 11.6817
+}
